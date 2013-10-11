@@ -6,7 +6,7 @@ body {
 	margin-top: 30px;
 	margin-bottom: 0;
 	background: white;
-	border: 1px solid #D6D6D6;
+	border: 1px solid #d6d6d6;
 }
 
 @media screen {
@@ -27,7 +27,7 @@ body {
 	background: linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
 }
 
-.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover {
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
 	color: white;
 }
 
@@ -41,4 +41,19 @@ body {
 
 .header-logo {
 	width: 300px;
+}
+
+.testimonials {
+	background: #626262;
+	background: -webkit-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	background: -moz-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	background: -o-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	background: -ms-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	background: linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	border-radius: 4px;
+}
+
+.testimonials blockquote {
+	border: 0;
+	color: #eee;
 }
