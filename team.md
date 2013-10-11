@@ -2,9 +2,6 @@
 layout: default
 title: About the Team
 ---
-# {{ page.title }}
-***
-
 ## Want to be part of the Team?
 We're constantly looking for talented individuals to join the team. If you're interested in helping out, please contact us. We also have various positions available on the Exec Team, find the one that suits you and apply to be part of the Team!
 

@@ -2,9 +2,6 @@
 layout: default
 title: About C3
 ---
-# {{ page.title }}
-***
-
 ### Through connecting the best and brightest students, C3 helps its delegates transform their high potential into high impact.
 
 <br>
