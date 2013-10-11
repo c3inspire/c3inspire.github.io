@@ -1,0 +1,44 @@
+body {
+	background: rgb(244, 244, 244);
+}
+
+.jumbotron {
+	margin-top: 30px;
+	margin-bottom: 0;
+	background: white;
+	border: 1px solid #D6D6D6;
+}
+
+@media screen {
+	.container .jumbotron {
+		border-bottom-left-radius: 0;
+		border-bottom-right-radius: 0;
+	}
+}
+
+.navbar {
+	border-radius: 0;
+	border: 0;
+	background: #626262;
+	background: -webkit-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	background: -moz-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	background: -o-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	background: -ms-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	background: linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+}
+
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover {
+	color: white;
+}
+
+.nav li:hover {
+	background: -webkit-linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
+	background: -moz-linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
+	background: -o-linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
+	background: -ms-linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
+	background: linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
+}
+
+.header-logo {
+	width: 300px;
+}
