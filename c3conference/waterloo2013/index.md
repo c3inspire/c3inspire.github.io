@@ -47,5 +47,5 @@ The C3 Conference is a one day conference that brings together *aspiring* and *h
 
 #### Check out past events to see what we're all about:
 
-* [Waterloo C3 Conference 2012](/c3conference/waterloo2012/)
-* [Waterloo C3 Conference 2011](/c3conference/waterloo2011/)
+* [Waterloo C3 Conference 2012](/c3conference/waterloo2012)
+* [Waterloo C3 Conference 2011](/c3conference/waterloo2011)

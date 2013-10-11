@@ -44,6 +44,10 @@ hr {
 	background: linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
 }
 
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;
+}
+
 .header-logo {
 	width: 300px;
 }

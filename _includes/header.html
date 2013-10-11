@@ -25,9 +25,31 @@
 	</div><!-- navbar-header -->
 	<div class="collapse navbar-collapse navbar-ex1-collapse">
 		<ul class="nav navbar-nav">
-			{% for page in site.pages %}
-			<li><a href="{{ page.url }}">{{ page.title }}</a></li>
-			{% endfor %}
+			<li><a href="/">Home</a></li>
+			<li><a href="/apply">Apply</a></li>
+			<li class="dropdown">
+				<a role="button" href="#">About C3</a>
+				<ul class="dropdown-menu" role="menu">
+					<li><a href="/about/">About C3</a></li>
+					<li><a href="/about/team">About the Team</a></li>
+				</ul>
+			</li>
+			<li class="dropdown">
+				<a role="button" href="#">C3 Conference</a>
+				<ul class="dropdown-menu" role="menu">
+					<li><a href="/c3conference/">C3 Conference</a></li>
+					<li class="divider"></li>
+					<li class="dropdown-header">Waterloo 2013</li>
+					<li><a href="/c3conference/waterloo2013/">Conference</a></li>
+					<li><a href="/c3conference/waterloo2013/schedule">Schedule</a></li>
+					<li><a href="/c3conference/waterloo2013/breakout">Breakout Sessions</a></li>
+					<li><a href="/c3conference/waterloo2013/faq">FAQ</a></li>
+					<li class="divider"></li>
+					<li><a href="/c3conference/waterloo2012">Waterloo 2012</a></li>
+					<li><a href="/c3conference/waterloo2011">Waterloo 2012</a></li>
+					<li><a href="/c3conference/toronto/">Toronto</a></li>
+				</ul>
+			</li>
 		</ul>
 	</div><!-- navbar-collapse -->
 </nav>
