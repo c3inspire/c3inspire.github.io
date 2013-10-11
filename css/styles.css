@@ -21,7 +21,8 @@ hr {
 }
 
 .navbar {
-	border-radius: 0;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
 	border: 0;
 	background: #626262;
 	background: -webkit-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
