@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Spark Centre Ignites Passion for Entrepreneurship in Durham Region"
 tags: c3admin
 ---

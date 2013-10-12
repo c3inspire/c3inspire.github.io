@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Can Entrepreneurship Be Taught? - Noam Wasserman & Victor Hwang"
 categories: [reading]
 tags: c3admin

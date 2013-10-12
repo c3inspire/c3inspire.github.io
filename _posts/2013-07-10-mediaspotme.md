@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Media Spot Me
 categories: [interview, technology, ventures]
 tags: tchen

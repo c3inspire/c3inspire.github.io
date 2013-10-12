@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The 10 Best Tech Rivalries of All Time - Todd Wasserman"
 categories: [reading, technology]
 tags: c3admin

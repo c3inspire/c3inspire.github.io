@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Kiss Your Boss Goodbye. It’s Time to Be an Entrepreneur – Alan Hall"
 categories: [career, reading]
 tags: c3admin

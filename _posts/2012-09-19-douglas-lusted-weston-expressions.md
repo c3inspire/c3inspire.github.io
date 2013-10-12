@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Douglas Lusted (Weston Expressions): Overcoming challenges and making his venture a reality"
 categories: [career, interview, ventures]
 tags: c3admin

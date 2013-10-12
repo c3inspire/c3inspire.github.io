@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Idea Showcase - Are You Ready?
 categories: [news]
 tags: c3admin

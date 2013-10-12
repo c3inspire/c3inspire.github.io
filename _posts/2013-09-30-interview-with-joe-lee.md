@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Joe Lee, VP of Operations of Milao Language, tells us about their innovative language training technology and the importance of planning everything ahead"
 categories: [interview, technology, ventures]
 tags: tchen

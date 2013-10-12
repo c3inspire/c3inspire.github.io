@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "BYOA: The New Path Into The Enterprise For Savvy Startups – Matt McIlwain"
 categories: [reading]
 tags: c3admin

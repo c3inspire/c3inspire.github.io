@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 tags: c3admin
 ---
 HEY! C3 Inspire has a fun little contest for you!

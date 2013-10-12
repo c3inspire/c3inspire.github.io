@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Create a Winning Business Idea in Six Easy Steps – Alan Hall"
 categories: [career, reading]
 tags: c3admin
