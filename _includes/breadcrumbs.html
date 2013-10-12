@@ -5,7 +5,7 @@
 	{% for crumb in crumbs %}
 		{% unless crumb == '' or crumb == 'index.html' %}
 			{% if forloop.last %}
-			<li>{{ crumb | remove: '.html' | capitalize }}</li>
+			<li class="active">{{ crumb | remove: '.html' | capitalize }}</li>
 			{% else %}
 			{% capture path %}{{ path }}/{{ crumb | remove: '.html' }}{% endcapture %}
 			<li><a href="{{ path }}">{{ crumb | remove: '.html' | capitalize }}</a></li>
