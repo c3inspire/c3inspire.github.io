@@ -48,16 +48,19 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     display: block;
 }
 
-.header-logo {
-	width: 300px;
-}
-
 .social, .social:hover {
 	text-decoration: none;
 }
 
 .social {
 	color: #777;
+	font-size: 1.2em;
+}
+
+@media screen and (min-width: 768px) {
+	.social {
+		font-size: 2em;
+	}
 }
 
 .social:hover {
