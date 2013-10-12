@@ -10,13 +10,13 @@
 	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/social-icon-font.css">
 	<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/styles.css">
-	<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/post.css">
 	<link rel="icon" type="image/png" href="{{ site.url }}/img/icon.png">
 	<link rel="apple-touch-icon-precomposed" type="image/png" href="{{ site.url }}/img/icon.png">
 </head>
 <body>
 	<div class="container">
 		{% include header.html %}
+		{% include breadcrumbs.html %}
 		<div class="panel panel-default">
 			<div class="panel-heading">
 				<h3 class="panel-title">{{ page.title }}</h3>
@@ -26,7 +26,7 @@
 					{{ content }}
 				</div>
 				<div class="col-md-4 hidden-xs hidden-sm">
-					<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/c3_conference" data-widget-id="389109552441851904">Tweets by @c3_conference</a>
+					<a class="twitter-timeline" height="2000" data-dnt="true" href="https://twitter.com/c3_conference" data-widget-id="389109552441851904">Tweets by @c3_conference</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
 			</div>
