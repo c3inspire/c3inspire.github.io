@@ -2,6 +2,7 @@
 layout: default
 title: C3 Blog
 ---
+{% include paginator.html %}
 <ul class="list-group">
 	{% for post in paginator.posts %}
 	<li class="list-group-item">
@@ -20,27 +21,4 @@ title: C3 Blog
 	</li>
 	{% endfor %}
 </ul>
-<!-- Pagination links -->
-<ul class="pagination">
-	{% if paginator.previous_page %}
-	<li><a href="{{ paginator.previous_page_path }}">&laquo;</a></li>
-	{% else %}
-	<li class="disabled"><a href="{{ paginator.previous_page_path }}">&laquo;</a></li>
-	{% endif %}
-	{% for p in (1..paginator.total_pages) %}
-		{% if p == paginator.page %}
-			{% if paginator.previous_page %}
-			<li><a href="{{ paginator.previous_page_path }}">{{ p | minus: 1 }}</a></li>
-			{% endif %}
-			<li class="active"><span>{{ p }} <span class="sr-only">(current)</span></span></li>
-			{% if paginator.next_page %}
-			<li><a href="{{ paginator.next_page_path }}">{{ p | plus: 1 }}</a></li>
-			{% endif %}
-		{% endif %}
-	{% endfor %}
-	{% if paginator.next_page %}
-	<li><a href="{{ paginator.next_page_path }}">&raquo;</a></li>
-	{% else %}
-	<li class="disabled"><a href="{{ paginator.next_page_path }}">&raquo;</a></li>
-	{% endif %}
-</ul>
+{% include paginator.html %}
