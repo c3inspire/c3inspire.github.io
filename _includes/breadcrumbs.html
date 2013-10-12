@@ -1,3 +1,4 @@
+{% unless page.url == '/index.html' %}
 <ol class="breadcrumb">
 	<li><a href="/">C3 Inspire</a></li>
 	{% assign crumbs = page.url | split: '/' %}
@@ -13,3 +14,4 @@
 		{% endunless %}
 	{% endfor %}
 </ol>
+{% endunless %}
