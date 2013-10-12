@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "Joe Lee, VP of Operations of Milao Language, tells us about their innovative language training technology and the importance of planning everything ahead"
+categories: [Interview, Technology, Ventures]
 tags: tchen
-published: true
 ---
 
-![Milao Language](/http://c3inspire.com/wp-content/uploads/2013/09/highres-milao.jpg)
+![Milao Language](http://c3inspire.com/wp-content/uploads/2013/09/highres-milao.jpg)
 Nowadays, people are starting to realize the importance of learning a second language but are scared about the difficulties in the learning process. That’s where Milao Language comes into play. Milao Language is a Waterloo-based technology startup developing solutions that focus on transforming language learners into fluent communicators. Using proven methods based on linguistics research and advanced technologies such as natural language processing (NLP). Today, we are honored to have a Q&A with VP of Operations of this amazing start-up.
 
 ### What was your objective when you decided to start a business?
@@ -17,7 +17,7 @@ It was almost like trying to put together a jigsaw puzzle. There were many piece
 ### What is the problem your business desire to solve?
 The success rate in language learning is worrisomely low: only one in every 25 adult language learners can achieve native-like fluency. Many of the language products and services that exist in the market today are geared towards grammar and vocabulary education. Yet, fundamentally, we do not leap from knowing more grammar and vocabulary to knowing how to communicate in another language. We have created an intelligence, online language tutor that allows students to enjoy text-based conversations in a language that they are learning. This will give language students an edge in their race towards fluency because they can now learn how to put the grammar and vocabulary to good use and practice as much as they want.
 
-![Milao Team](/http://c3inspire.com/wp-content/uploads/2013/09/IMG_9213-300x200.jpg)
+![Milao Team](http://c3inspire.com/wp-content/uploads/2013/09/IMG_9213-300x200.jpg)
 
 ### Were people in your team all strangers before start-up? If you start a business with your friend, what kind of things you need to look out for?
 
