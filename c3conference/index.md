@@ -10,7 +10,7 @@ The C3 Conference accomplishes this objective through structured networking even
 There are two streams within the conference. The first is for-profit entrepreneurial ventures and the second is not-for-profit social change initiatives. Students rank their preference for which stream they would like to be a part of in their application. Each stream has distinct breakout sessions.
 
 <div class="text-center">
-	<img src="http://c3inspire.com/wp-content/uploads/2012/09/breakout_slide-300x135.jpg" alt="Breakout Session" class="conference-breakout">
+	<img src="http://c3inspire.com/wp-content/uploads/2012/09/breakout_slide-300x135.jpg" alt="Breakout Session" class="conference-breakout img-responsive">
 </div>
 
 ### How do the Breakout Sessions work?

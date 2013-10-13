@@ -100,7 +100,6 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 }
 
 .conference-breakout {
-	width: 300px;
 	margin: auto;
 	border: 4px solid black;
 }
