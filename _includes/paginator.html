@@ -4,6 +4,7 @@
 	{% else %}
 	<li class="previous disabled"><a href="{{ paginator.previous_page_path }}">&larr; Newer</a></li>
 	{% endif %}
+	<span class="text-center">{{ paginator.page }} of {{ paginator.total_pages }}</span>
 	{% if paginator.next_page %}
 	<li class="next"><a href="{{ paginator.next_page_path }}">Older &rarr;</a></li>
 	{% else %}
