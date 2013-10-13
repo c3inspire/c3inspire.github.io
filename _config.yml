@@ -5,9 +5,4 @@ paginate: 5
 paginate_path: blog/page:num
 markdown: redcarpet
 redcarpet:
-  extensions:
-    - hard_wrap
-    - no_intra_emphasis
-    - autolink
-    - strikethrough
-    - fenced_code_blocks
+  extensions: [smart, hard_wrap, no_intra_emphasis, autolink, strikethrough, fenced_code_blocks]
