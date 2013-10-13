@@ -81,9 +81,17 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	background: none;
 }
 
-.media-list > li > img {
-	width: 140px;
-	border: 4px solid black;
+@media screen and (min-width: 768px) {
+	.media-list > li > img {
+		width: 140px;
+		border: 4px solid black;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.media-list > li > img {
+		width: 40px;
+	}
 }
 
 .thumbnail, .thumbnail:hover {
