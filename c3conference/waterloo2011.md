@@ -33,10 +33,11 @@ Thanks to all the delegates that made our conference such a great success in 201
 ### Sponsors
 
 <div class="row text-center">
-	<div class="col-md-6">
-		<img src="http://c3inspire.com/wp-content/uploads/2013/03/Laurier_RED_WLU_RGB-300x101.jpg" alt="Wilfrid Laurier University">
+	<div class="col-sm-2"></div>
+	<div class="col-sm-4">
+		<img src="http://c3inspire.com/wp-content/uploads/2013/03/Laurier_RED_WLU_RGB-300x101.jpg" alt="Wilfrid Laurier University" class="img-responsive">
 	</div>
-	<div class="col-md-6">
-		<img src="http://c3inspire.com/wp-content/uploads/2013/03/UWlogomarketing-288x300.jpg" alt="University of Waterloo">
+	<div class="col-sm-4">
+		<img src="http://c3inspire.com/wp-content/uploads/2013/03/UWlogomarketing-288x300.jpg" alt="University of Waterloo" class="img-responsive">
 	</div>
 </div>
