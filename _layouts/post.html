@@ -15,6 +15,7 @@
 	<link rel="apple-touch-icon-precomposed" type="image/png" href="{{ site.url }}/img/icon.png">
 </head>
 <body>
+	{% include facebook_js_sdk.html %}
 	<div class="container">
 		{% include header.html %}
 		<div class="panel panel-default">
@@ -25,6 +26,7 @@
 				<div class="col-md-8">
 					{{ content }}
 					<br>
+					{% include like_button.html %}
 					{% include tweet_button.html %}
 				</div>
 				<div class="col-md-4 hidden-xs hidden-sm">
