@@ -26,10 +26,20 @@
 				<div class="col-md-8">
 					{{ content }}
 					<br>
-					{% include like_button.html %}
-					{% include tweet_button.html %}
-					{% include inshare_button.html %}
-					{% include plusone_button.html %}
+					<div class="row">
+						<div class="col-xs-2">
+						{% include like_button.html %}
+						</div>
+						<div class="col-xs-2">
+						{% include tweet_button.html %}
+						</div>
+						<div class="col-xs-2">
+						{% include inshare_button.html %}
+						</div>
+						<div class="col-xs-2">
+						{% include plusone_button.html %}
+						</div>
+					</div>
 				</div>
 				<div class="col-md-4 hidden-xs hidden-sm">
 					{% include twitter_timeline.html %}
