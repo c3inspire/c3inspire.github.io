@@ -123,4 +123,11 @@ We're constantly looking for talented individuals to join the team. If you're in
 			<p>Alyssa is currently a student at Ryerson University studying at The School of Graphic Communications Management, the only degree offering program in Canada for the print industry. Alyssa is extensively involved in extracurricular activities within the industry and is passionate about traveling. She has recently worked with the ministry of education in the production department and attended an exchange in Sweden.</p>
 		</div>
 	</li>
+	<li class="media">
+		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2012/06/Elaine_Vuong-150x150.jpg" alt="Elaine Vuong">
+		<div class="media-body">
+			<h4 class="media-heading">Elaine Vuong, UofT Scarborough Team Lead</h4>
+            <p>Elaine is a second year Co-op Management student at the University of Toronto Scarborough specializing in Accounting. She is the UofT Scarborough Team Lead and she’s so excited to bring this stellar conference to the students at UTSC – the entrepreneurship spirit glows bright out in Scarborough! She’s an avid musician – playing instruments from piano, clarinet, and voice. As well, she enjoys doing pilates, playing badminton and writing short stories and reading in her spare time.</p>
+		</div>
+	</li>
 </ul>
