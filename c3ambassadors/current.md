@@ -10,6 +10,9 @@ If you or someone you know fits the C3 Ambassador role - whether they would be t
 
 ### Current C3 Inspire Ambassadors
 
+<br>
+
+#### Waterloo Academics
 <ul class="media-list">
 	<li class="media">
 		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/david-ha.jpg" alt="David Ha">
@@ -33,13 +36,6 @@ If you or someone you know fits the C3 Ambassador role - whether they would be t
 		</div>
 	</li>
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Douglas-Lusted-150x150.jpg" alt="Douglas Lusted">
-		<div class="media-body">
-			<h4 class="media-heading">Douglas Lusted</h4>
-			<p>Douglas is currently the President and Founder of Weston Expressions, a company that seeks to build a new advertising platform focused on bringing advertisements to escalator handrails. He was a VeloCity Venture Fund Winner in 2012, earning his start-up over $25,000 to help build his business. Douglas was part of The Next 36 entrepreneur program, and attended the Conrad Business, Entrepreneurship, and Technology Centre.</p>
-		</div>
-	</li>
-	<li class="media">
 		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Wayne-Chang-134x150.jpg" alt="Wayne Chang">
 		<div class="media-body">
 			<h4 class="media-heading">Wayne Chang</h4>
@@ -51,23 +47,6 @@ If you or someone you know fits the C3 Ambassador role - whether they would be t
 		<div class="media-body">
 			<h4 class="media-heading">Peter Balka</h4>
 			<p>Since 2006, Peter has been the Program Director for the Math/CA Program at the University of Waterloo. Prior to his appointment, he served as the Faculty Lecturer in the Department of Statistics and Actuarial Science.</p>
-		</div>
-	</li>
-	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Tania-Del-Matto1.jpg" alt="Tania Del Matto">
-		<div class="media-body">
-			<h4 class="media-heading">Tania Del Matto</h4>
-			<p>Tania is the Founder and Executive Director of My Sustainable Canada, a national not-for-profit organization with a mandate to help people and organizations make more sustainable choices. Early in her career, she managed and led regional, national and international projects on sustainable consumption and production, pesticide reduction, greening small business, and environmental education for a variety of public and private sector clients. Tania was also recently appointed as the Director for GreenHouse at St. Pauls, a program which provides uWaterloo students the opportunity to address environmental or development issues taking place in the world.</p>
-		</div>
-	</li>
-	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Megh_Gupta-214x300.png" alt="Megh Gupta">
-		<div class="media-body">
-			<h4 class="media-heading">Megh Gupta</h4>
-			<p>In his role as Senior Associate at OMERS Ventures, Megh Gupta is responsible for helping find and execute on investment opportunities in the Technology, Media, and Telecommunications (TMT) sectors.</p>
-			<p>Prior to joining OMERS Ventures, Megh spent three years in the Strategy and New Ventures team at Torstar Digital, the online division of Canadian media company Torstar. While there, Megh helped develop, launch and lead online businesses in the personal finance and mobile retail shopping sectors. He also helped manage the company's corporate venturing initiatives and strategic planning activities.</p>
-			<p>Prior to Torstar Digital, Megh worked in private equity, management consulting, and briefly dabbled in entrepreneurship in India.</p>
-			<p>Megh graduated summa cum laude with an MBA from the Kellogg School of Management and also received an HBA from the Richard Ivey School of Business. He holds a CMA accounting designation.</p>
 		</div>
 	</li>
 	<li class="media">
@@ -96,6 +75,49 @@ If you or someone you know fits the C3 Ambassador role - whether they would be t
 		<div class="media-body">
 			<h4 class="media-heading">Anne Ellis</h4>
 			<p>Program Advisor, Undergraduate Business</p>
+		</div>
+	</li>
+</ul>
+
+<br>
+
+#### Toronto Academics
+<ul class="media-list">
+	<li class="media">
+		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Bharat_Shah-150x150.png" alt="Bharat Shah">
+		<div class="media-body">
+			<h4 class="media-heading">Bharat Shah</h4>
+			<p>Bharat Shah is a professor at Ryerson University’s Ted Rogers School of Information Technology Management. Professor Shah has extensive background in teaching, project management, and consulting.  He teaches a variety of information technology subjects including Managing Information Systems, I.T Strategy, and e-Business and incorporates experiential learning in his courses.  He is a champion for student directed initiatives including coaching case competitions, mentoring students, supporting graduates in entrepreneurial initiatives, and strengthening linkages with industry.</p>
+		</div>
+	</li>
+</ul>
+
+<br>
+
+#### Corporate
+<ul class="media-list">
+	<li class="media">
+		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Megh_Gupta-214x300.png" alt="Megh Gupta">
+		<div class="media-body">
+			<h4 class="media-heading">Megh Gupta</h4>
+			<p>In his role as Senior Associate at OMERS Ventures, Megh Gupta is responsible for helping find and execute on investment opportunities in the Technology, Media, and Telecommunications (TMT) sectors.</p>
+			<p>Prior to joining OMERS Ventures, Megh spent three years in the Strategy and New Ventures team at Torstar Digital, the online division of Canadian media company Torstar. While there, Megh helped develop, launch and lead online businesses in the personal finance and mobile retail shopping sectors. He also helped manage the company's corporate venturing initiatives and strategic planning activities.</p>
+			<p>Prior to Torstar Digital, Megh worked in private equity, management consulting, and briefly dabbled in entrepreneurship in India.</p>
+			<p>Megh graduated summa cum laude with an MBA from the Kellogg School of Management and also received an HBA from the Richard Ivey School of Business. He holds a CMA accounting designation.</p>
+		</div>
+	</li>
+	<li class="media">
+		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Tania-Del-Matto1.jpg" alt="Tania Del Matto">
+		<div class="media-body">
+			<h4 class="media-heading">Tania Del Matto</h4>
+			<p>Tania is the Founder and Executive Director of My Sustainable Canada, a national not-for-profit organization with a mandate to help people and organizations make more sustainable choices. Early in her career, she managed and led regional, national and international projects on sustainable consumption and production, pesticide reduction, greening small business, and environmental education for a variety of public and private sector clients. Tania was also recently appointed as the Director for GreenHouse at St. Pauls, a program which provides uWaterloo students the opportunity to address environmental or development issues taking place in the world.</p>
+		</div>
+	</li>
+	<li class="media">
+		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Douglas-Lusted-150x150.jpg" alt="Douglas Lusted">
+		<div class="media-body">
+			<h4 class="media-heading">Douglas Lusted</h4>
+			<p>Douglas is currently the President and Founder of Weston Expressions, a company that seeks to build a new advertising platform focused on bringing advertisements to escalator handrails. He was a VeloCity Venture Fund Winner in 2012, earning his start-up over $25,000 to help build his business. Douglas was part of The Next 36 entrepreneur program, and attended the Conrad Business, Entrepreneurship, and Technology Centre.</p>
 		</div>
 	</li>
 </ul>
