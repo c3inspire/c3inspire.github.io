@@ -130,4 +130,11 @@ We're constantly looking for talented individuals to join the team. If you're in
             <p>Elaine is a second year Co-op Management student at the University of Toronto Scarborough specializing in Accounting. She is the UofT Scarborough Team Lead and she’s so excited to bring this stellar conference to the students at UTSC – the entrepreneurship spirit glows bright out in Scarborough! She’s an avid musician – playing instruments from piano, clarinet, and voice. As well, she enjoys doing pilates, playing badminton and writing short stories and reading in her spare time.</p>
 		</div>
 	</li>
+	<li class="media">
+		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2012/06/Prateeksha_Ravi1-150x150.jpg" alt="Prateeksha Ravi">
+		<div class="media-body">
+			<h4 class="media-heading">Prateeksha Ravi, External Relations Manager</h4>
+            <p>Prateeksha is a third year student at the University of Waterloo, studying Legal Studies and Human Resource Management. Highly involved in various extra curricular activities around school and within the community, Prateeksha is a very charismatic person who loves to socialize and make new connections. She enjoys taking part in leadership conferences and believes in making a change. Every task she brings upon myself is dealt with the utmost honesty, integrity, and passion. Humbled with the opportunity to take on the role as the External Relations Manager, she has high hopes of making C3 a larger initiative and in spreading the word, she is very excited in working with this team to make the conference bigger and better. Being a forward-thinking person who is fearless when it comes to trying new things, Prateeksha intends to help myself and those around me succeed by being pro-active, empowering and inspirational. She firmly believe that perfection is not a destination, but the process of continuous improvement.</p>
+		</div>
+	</li>
 </ul>
