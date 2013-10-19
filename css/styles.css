@@ -118,3 +118,8 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	border: 0;
 	color: #eee;
 }
+
+.partner {
+	display: block;
+	margin: auto;
+}
