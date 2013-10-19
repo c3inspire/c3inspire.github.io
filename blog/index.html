@@ -11,9 +11,8 @@ title: C3 Blog
 		<p>
 			Posted on {{ post.date | date_to_long_string }} by <a href="/author/{{ post.tags }}">{{ post.tags | array_to_sentence_string }}</a> <span class="badge">{{ num_words }} {% if num_words == 1 %}word{% else %}words{% endif %}</span>
 		</p>
-		{% assign category_sentence = post.categories | array_to_sentence_string %}
-		{% if category_sentence != '' %}
-		<p>Categories: {{ category_sentence }}</p>
+		{% if post.categories.size != 0 %}
+		<p>Categories:{% for category in post.categories %} <span class="label label-info">{{ category }}</span>{% endfor %}</p>
 		{% endif %}
 		<blockquote>
 		<p>{{ post.excerpt }}</p>
