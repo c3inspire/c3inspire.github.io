@@ -22,7 +22,7 @@ If you have them, it is recommended that you bring your business cards for the n
 
 #### *Who do I inform of my dietary restrictions or disability accommodation requests?*
 
-If you receive the confirmation email regarding your acceptance into the conference, please reply to the email and provide any dietary restrictions or disability accommodation requests. Please contact the C3 executive team at janna@C3inspire.com if you would like to provide any additional information.
+If you receive the confirmation email regarding your acceptance into the conference, please reply to the email and provide any dietary restrictions or disability accommodation requests. Please contact the C3 executive team at janna@c3inspire.com if you would like to provide any additional information.
 
 <br>
 

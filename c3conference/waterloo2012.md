@@ -2,7 +2,7 @@
 layout: default
 title: Waterloo C3 Conference 2012
 ---
-<img src="http://c3inspire.com/wp-content/uploads/2012/06/c3-Conference-3-300x200.jpg" alt="Waterloo 2012" class="img-thumbnail pull-right">
+<img src="http://i.imgur.com/oTttmcBl.jpg" alt="Waterloo 2012" class="img-thumbnail pull-right">
 
 C3 was created to unlock the huge potential of student leaders at University of Waterloo and Wilfrid Laurier University by *Connecting* them with other high-energy, high-achieving students to *Collaborate* on an entrepreneurial venture or social change initiative and obtain the resources they need to *Create* something that will make a positive, lasting impact on the world.
 
@@ -14,7 +14,7 @@ This year's conference was held on **November 10** at **RCH (J.R. Coutts Enginee
 
 <ul class="media-list">
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2012/06/wayne_chang_0-1.jpg" alt="Wayne Chang">
+		<img class="media-object pull-left" src="http://i.imgur.com/ibJhosv.jpg" alt="Wayne Chang">
 		<div class="media-body">
 			<h4 class="media-heading">Wayne Chang</h4>
 			<p>Wayne Chang is the founder and president of Pivotry Consulting Group Inc., a scientific and technical consulting company that helps high-tech and renewable energy companies through technical workshops and process "nutriation" (nutrition through technical enhancement). He actively supports Waterloo's student entrepreneurs at the VeloCity residence.</p>
@@ -22,7 +22,7 @@ This year's conference was held on **November 10** at **RCH (J.R. Coutts Enginee
 		</div>
 	</li>
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2012/10/Mike-150x150.jpg" alt="Mike Morrice">
+		<img class="media-object pull-left" src="http://i.imgur.com/PCXzFy7.jpg" alt="Mike Morrice">
 		<div class="media-body">
 			<h4 class="media-heading">Mike Morrice</h4>
 			<p>Mike is the founder and Executive Director of Sustainable Waterloo Region, a not-for-profit that advances the environmental sustainability of organizations across Waterloo Region through collaboration.</p>
@@ -30,7 +30,7 @@ This year's conference was held on **November 10** at **RCH (J.R. Coutts Enginee
 		</div>
 	</li>
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2012/10/Jackie-150x150.jpg" alt="Jackie Lee">
+		<img class="media-object pull-left" src="http://i.imgur.com/aXpDpDj.jpg" alt="Jackie Lee">
 		<div class="media-body">
 			<h4 class="media-heading">Jackie Lee</h4>
 			<p>Jackie Lee graduated from the University of Waterloo in 2006, and obtained an Honours Science Degree with a minor in Psychology. She was a member of the Women's Varsity Tennis team and was a student fundraiser, raising over $1 Million dollars for the University. Jackie was an early executive of the Impact Entrepreneurship Group and while finishing school she started Recruit My Friends, a Talent Management company for top Software Engineers. They have offices in Toronto, NY and San Francisco.</p>
@@ -44,7 +44,7 @@ This year's conference was held on **November 10** at **RCH (J.R. Coutts Enginee
 <div class="row">
 	<div class="col-md-4">
 		<div class="thumbnail">
-			<img src="http://c3inspire.com/wp-content/uploads/2012/11/Desmond-150x150.jpg" alt="Desmond Choi">
+			<img src="http://i.imgur.com/QKigPJ8.jpg" alt="Desmond Choi">
 			<div class="caption text-center">
 				<h3>Desmond Choi</h3>
 			</div>
@@ -52,7 +52,7 @@ This year's conference was held on **November 10** at **RCH (J.R. Coutts Enginee
 	</div>
 	<div class="col-md-4">
 		<div class="thumbnail">
-			<img src="http://c3inspire.com/wp-content/uploads/2012/10/Mark-150x150.jpg" alt="Mark Arnason">
+			<img src="http://i.imgur.com/szaUTDL.jpg" alt="Mark Arnason">
 			<div class="caption text-center">
 				<h3>Mark Arnason</h3>
 			</div>
@@ -60,7 +60,7 @@ This year's conference was held on **November 10** at **RCH (J.R. Coutts Enginee
 	</div>
 	<div class="col-md-4">
 		<div class="thumbnail">
-			<img src="http://c3inspire.com/wp-content/uploads/2012/10/Pat-150x150.jpg" alt="Pat Lemieux">
+			<img src="http://i.imgur.com/u68xP9c.jpg" alt="Pat Lemieux">
 			<div class="caption text-center">
 				<h3>Pat Lemieux</h3>
 			</div>

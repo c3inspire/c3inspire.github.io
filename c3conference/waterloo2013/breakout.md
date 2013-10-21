@@ -2,7 +2,7 @@
 layout: default
 title: Waterloo 2013 Conference Breakout Sessions
 ---
-<img src="http://c3inspire.com/wp-content/uploads/2012/06/c3-Conference-11-300x193.jpg" alt="Breakout Session" class="img-thumbnail pull-right">
+<img src="http://i.imgur.com/sNyyyOol.jpg" alt="Breakout Session" class="img-thumbnail pull-right">
 
 ### Session 1: Team Idea Generation
 

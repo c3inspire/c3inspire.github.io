@@ -13,7 +13,7 @@ The C3 Conference is a one day conference that brings together *aspiring* and *h
 
 <ul class="media-list">
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Joseph_Fung-200x300.jpg" alt="Joseph Fung">
+		<img class="media-object pull-left" src="http://i.imgur.com/ZZkxIXC.jpg" alt="Joseph Fung">
 		<div class="media-body">
 			<h4 class="media-heading">Joseph Fung, Co-Founder and CEO of TribeHR</h4>
 			<p>Joseph Fung is co-founder and CEO of TribeHR, makers of the first Social HR Platform and home to an award-winning workplace and acclaimed culture of innovation and entrepreneurship.</p>
@@ -23,14 +23,14 @@ The C3 Conference is a one day conference that brings together *aspiring* and *h
 		</div>
 	</li>
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Adil_Dhalla-300x200.jpg" alt="Adil Dhalla">
+		<img class="media-object pull-left" src="http://i.imgur.com/MAi6rJr.jpg" alt="Adil Dhalla">
 		<div class="media-body">
 			<h4 class="media-heading">Adil Dhalla, Director of Culture at the Centre for Social Innovation</h4>
 			<p>Adil Dhalla is the ukulele playing, bow tie wearing, Director of Culture at the Centre for Social Innovation. His story, as he describes it, has been "one helluva adventure", which includes community organizing for the Obama campaign in Brooklyn, helping Tanzanian farmers leverage technology to improve their efforts and most recently, being among the pioneers in the mobile video space with his acclaimed brainchild – My City Lives. Adil strongly believes that it's up to each of us to change the world, and accordingly, his energy is spent animating the Centre for Social Innovation community by instilling a shared sense of purpose, elevating happiness and evangelizing the many stories of systems change and social innovation.</p>
 		</div>
 	</li>
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/06/Karamdeep_Nijjar.png" alt="Karamdeep Nijjar">
+		<img class="media-object pull-left" src="http://i.imgur.com/ZqlkNzZ.png" alt="Karamdeep Nijjar">
 		<div class="media-body">
 			<h4 class="media-heading">Karamdeep Nijjar, Venture Capitalist at iNovia Capital</h4>
 			<p>Karamdeep Nijjar is a member of iNovia's investment team with a focus on software, digital media and e-commerce. He works closely with both existing portfolio companies and potential future investees to evaluate and identify growth opportunities. Prior to iNovia, Karamdeep served as a subject matter expert at RBC on a variety of cross enterprise software architecture initiatives, concentrating on strategies to maximize flexibility and reuse.</p>
