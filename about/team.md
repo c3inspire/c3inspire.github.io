@@ -33,13 +33,6 @@ We're constantly looking for talented individuals to join the team. If you're in
 		</div>
 	</li>
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/08/Rameez-UWES-150x150.jpg" alt="Rameez Haslani">
-		<div class="media-body">
-			<h4 class="media-heading">Rameez Haslani, National Director for External Relations</h4>
-			<p>Rameez Haslani (B.Eng, MMS, MBET) is currently a Research Assistant at the Conrad Business, Entrepreneurship and Technology Centre, University of Waterloo. In this role, he is involved in building a Virtual Incubator Program for start-ups. He also holds the position of General Director at the University of Waterloo Entrepreneurship Society and is involved in organizing events for promoting entrepreneurship among students in the Kitchener-Waterloo area. Rameez has experience in business development, engineering, technology and startups in Canada as well as in India. His passion to connect people and encourage entrepreneurship is the major driving force for joining this team.</p>
-		</div>
-	</li>
-	<li class="media">
 		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2012/06/amie1.png" alt="Amie Mitzel">
 		<div class="media-body">
 			<h4 class="media-heading">Amie Mitzel, GTA Partnership Manager</h4>
