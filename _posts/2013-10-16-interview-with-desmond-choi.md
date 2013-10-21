@@ -16,7 +16,7 @@ Not all ideas can be turn into a business, the best way to test is your business
 ### What is the problem your business desire to solve?
 When I was in high school I was part of a breakdance crew and school orchestra. I love performing at events but looking for gigs was hard for us. I am starting Sparkgig, an online platform to bridge the community of performers with event planners. I believe everyone should be able to enjoy music and entertainment everywhere anytime. Currently there is a huge connection barrier between the performers and the performance opportunity. Sparkgig we envision the way people interact with live entertainment should be simple easy and affordable everywhere around the world.
 
-![Concert](http://i.imgur.com/vpVjMD0.jpg)
+![Concert](http://i.imgur.com/vpVjMD0l.jpg)
 
 ### Were people in your team all strangers before start-up? If you start a business with your friend, what kind of things you need to look out for?
 We are all friends before we started Sparkgig, we got united by the vision we have for the company. I believe skills and experience can be develop easily but Trust and Relationship are far more important than anything else. One thing to look out for when forming a team is never assumes you know what other people are thinking. Always have an open environment, keep updating with your co-founders and teammate, and understand their concerns and feelings.  Big conflict happens because of many small conflicts add up.
