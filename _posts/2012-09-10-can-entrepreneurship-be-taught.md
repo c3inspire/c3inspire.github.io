@@ -4,7 +4,7 @@ title: "Can Entrepreneurship Be Taught? - Noam Wasserman & Victor Hwang"
 categories: [reading]
 tags: c3admin
 ---
-![Reading](http://c3inspire.com/wp-content/uploads/2012/09/study-briefcase-150x150.jpeg)
+![Reading](http://i.imgur.com/yiPXffA.jpg)
 
 Entrepreneurship classes can often be found in secondary and post-secondary institutions, and have become standard in general business education. But are these classes a simple waste of time? Some of the world’s most renown entrepreneurs never took “entrepreneurship classes”, and some never finished school! Noam Wasserman and Victor W. Hwang take on the yes and no for this very split question. Below is an excerpt from their article:
 

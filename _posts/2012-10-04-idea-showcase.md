@@ -4,7 +4,7 @@ title: Idea Showcase - Are You Ready?
 categories: [news]
 tags: c3admin
 ---
-<img src="http://c3inspire.com/wp-content/uploads/2012/10/c3-Idea-Showcase-Slide.jpg" alt="C3 Idea Showcase" class="img-responsive">
+![C3 Idea Showcase](http://i.imgur.com/tljIRcj.jpg)
 
 Our first event of the year, and we’re starting with a BANG! Join us for the [Idea Showcase](/inspire/ideashowcase2012) on October 17th.
 

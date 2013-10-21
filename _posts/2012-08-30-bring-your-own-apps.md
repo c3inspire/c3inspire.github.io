@@ -4,7 +4,7 @@ title: "BYOA: The New Path Into The Enterprise For Savvy Startups – Matt McIlw
 categories: [reading]
 tags: c3admin
 ---
-![App Platter](http://c3inspire.com/wp-content/uploads/2012/09/app-platter-150x150.jpeg)
+![App Platter](http://i.imgur.com/KA4KID9.jpg)
 
 Unlike their larger counterparts, small companies are embracing a new technology wave hitting the enterprise space – Bring your own Apps! [Matt McIlwain](http://www.forbes.com/lists/midas/2011/profile/matt-mcilwain.html) investigates this growing trend and what it means for businesses. Below is an excerpt from his article:
 

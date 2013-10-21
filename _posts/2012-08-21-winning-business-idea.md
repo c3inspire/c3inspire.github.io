@@ -4,7 +4,7 @@ title: "How to Create a Winning Business Idea in Six Easy Steps – Alan Hall"
 categories: [career, reading]
 tags: c3admin
 ---
-![http://c3inspire.com/wp-content/uploads/2012/09/Idea-150x150.jpeg](http://c3inspire.com/wp-content/uploads/2012/09/Idea-150x150.jpeg)
+![Idea](http://i.imgur.com/fP1Gvop.jpg)
 
 An idea is a thought or suggestion as to a possible course of action. If only generating these ideas are as simple as a dictionary definition. [Alan Hall](http://blogs.forbes.com/alanhall/) shares the secret to creating a “world-class idea in six easy steps”. Below is an excerpt from his article:
 

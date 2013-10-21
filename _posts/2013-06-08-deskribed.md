@@ -5,7 +5,7 @@ tags: tchen
 ---
 # Karim Gilliani, the Co-founder of Deskribed tells us about why he started his own company
 
-![Karim Gilliani](http://c3inspire.com/wp-content/uploads/2013/06/Karim-headshot-150x150.png)
+![Karim Gilliani](http://i.imgur.com/K2EJFbL.png)
 
 Finding a job that is perfectly tailored for you is extremely difficult. But don’t worry, Deskribed can help. Deskribed is a highly personalized tool to help you get your perfect job, without the hassle of having to look for it.
 
@@ -20,7 +20,7 @@ We were trying to solve a major problem: bringing employers and job-seekers toge
 ### What was the process of turning your idea into a business? What did you do first?
 It started with a bunch of whiteboard marker notes all over the windows of my San Francisco apartment. I thought about what the user experience might be, what the business model might look like and did a bunch of research about the market. I bounced the idea off some friends and anyone else who might have an opinion. After getting great feedback, I teamed up with my co-founder, Shayan, and we started developing a functional spec. We brought in a design team to help with the UX and started on mock-ups. A couple months later, we were writing code and working on our first release.
 
-![Deskribed Team](http://c3inspire.com/wp-content/uploads/2013/06/Deskribed-blog-image-300x225.jpg)
+![Deskribed Team](http://i.imgur.com/pP48BYyl.jpg)
 
 ### What is the problem that Deskribed is aiming to solve?
 The larger problem is that a big portion of the working population wakes up to a job that doesn’t fully make them happy. They’ve been in their role for too long, they’re not learning anything new, they’re not making enough money or they are generally unfulfilled in some way. When you’re in that situation, it’s hard to find something new that you would enjoy, even if you really want to. You get stuck in a bit of a pattern. Deskribed makes it easy to see what other opportunities are available for you. In the long term, we can even help you build a personalized career path and deliver the jobs that allow you to progress.

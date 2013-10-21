@@ -16,8 +16,8 @@ Keep a lookout for the posters starting today and the person with the most “li
 
 But wait – there more!
 
-New memes will be put up daily from Monday to Thursday both this week and next week!  
+New memes will be put up daily from Monday to Thursday both this week and next week!
 
-Remember also to apply for the C3 Conference before Sep 26th at http://c3inspire.com/application/ and Unlock Your Potential (in addition to your awesome picture taking, contest winning, Facebook using skills)
+Remember also to apply for the C3 Conference before Sep 26th and Unlock Your Potential (in addition to your awesome picture taking, contest winning, Facebook using skills)
 
 Happy contesting everyone!!

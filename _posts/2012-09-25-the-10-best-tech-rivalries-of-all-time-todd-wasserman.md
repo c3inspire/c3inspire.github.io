@@ -4,7 +4,7 @@ title: "The 10 Best Tech Rivalries of All Time - Todd Wasserman"
 categories: [reading, technology]
 tags: c3admin
 ---
-![Apple vs. Microsoft](http://c3inspire.com/wp-content/uploads/2012/09/Microsoft-vs-Apple-e1348559698112-300x133.jpeg)
+![Apple vs. Microsoft](http://i.imgur.com/dnaOd6El.jpg)
 
 Today’s rapid growth in technology is driving demand for the latest and greatest gadgets! For companies, it’s all about who’s first to market and which designs and features are better. In this competitive market space, it’s no surprise that a full thermonuclear war has begun. [Todd Wasserman](http://mashable.com/author/todd-wasserman/) counts down the 10 best moments of all time. Below is an excerpt from his article:
 

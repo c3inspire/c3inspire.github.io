@@ -6,7 +6,7 @@ tags: tchen
 ---
 # Co-founder of Media Spot Me, tells fellow aspiring entrepreneurs to just keep going, don’t  focus too much time on planning.
 
-![Media Spot Me](http://c3inspire.com/wp-content/uploads/2013/07/logo.png)
+![Media Spot Me](http://i.imgur.com/f48EnBB.png)
 
 In this era of information explosion, journalists and media companies always find it difficult to pinpoint reliable and knowledgeable sources for information. Mediaspotme is a Waterloo-based start-up that is built to solve this problem. We got a chance to sit down with **Ebrahim Ashrafizadeh** to talk about Media Spot Me and his journey to become an entrepreneur.
 
@@ -16,7 +16,7 @@ So why start his own business?  Well it’s all in the ability to build somethin
 
 It is very interesting when he took the first step to build his business. He told me that what ends up happening often in a start-up is that you get so paranoid about your idea. Sometimes you even paralyze to do anything about them. One positive they had was that his co-founder was the one who experienced the need for this idea. And whenever he was just thinking about business idea even before he and his co-founder, he was always looking it like this is another messaging gap, or this is just another app for this, app for that. How are they going to make money and how are they going to survive? He analyzed all these different things. He said, as you go down to this path, you realize the idea is not that important. It is actually the execution. For them what they did was to take a contract project with the co-founder. He suggested they should come out with a prototype. In the meantime, they accessed each other’s skill and the validity of the idea. So they built the prototype in a course of several months. That is due to the fact that they were both committed to other things in the startup.  They sent each other emails back and forth. Later they heard positive feedbacks from an industry professional. That led them to take this seriously and eventually quitting the job and doing this full time.
 
-![Media Spot Me Co-Founders](http://c3inspire.com/wp-content/uploads/2013/07/Mediaspotme-2-300x168.jpg)
+![Media Spot Me Co-Founders](http://i.imgur.com/yXKb8wwl.jpg)
 
 Money is lifeblood of every start-up. Media Spot Me obtained an initial $30,000 funding from a venture capital program that really helped them get started through promotions, like attending conferences and gaining exposure through others. They took full advantage of Velocity (put velocity hyperlink), which also saved them a huge amount of money. Most of the money was spent on employing people with skills that they didn’t have.
 

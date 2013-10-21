@@ -5,7 +5,7 @@ tags: tchen
 ---
 # Sameera Banduk, Marketing Director of Thalmic Labs, tells us about MYO and their goal to bring people superpowers using technology
 
-![MYO](http://c3inspire.com/wp-content/uploads/2013/06/MYO-300x198.jpg)
+![MYO](http://i.imgur.com/qljtPYfl.jpg)
 
 The fast pace of technology has greatly changed our lives and challenged our imagination. Thalmic Labs is a Waterloo-based start-up that is dedicated to the development of wearable technology with focus on human-computer interaction. They launched their flagship product, MYO in February and collected over $3.7 million dollar in pre-orders in just a month. We are honored to have the chance to speak with Marketing Director of Thalmic Labs, Sameera Banduk, to get an insider perspective of the revolutionary start-up.
 
@@ -18,7 +18,7 @@ The three founders first build a proof-of-concept prototype to prove out that th
 ### So what is MYO?
 MYO connects the real and the digital world. It provides a way for us to interact with and control computers and other digital devices directly using our hands. Fundamentally, Thalmic is attempting to close the gap between humans and technology.
 
-![Magic of MYO](http://c3inspire.com/wp-content/uploads/2013/06/MYO-2-300x169.png)
+![Magic of MYO](http://i.imgur.com/jP69fgml.png)
 
 ### Were people in your team all strangers before start-up? If you start a business with your friend, what kind of things you need to look out for?
 

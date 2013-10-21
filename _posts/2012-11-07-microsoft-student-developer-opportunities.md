@@ -3,7 +3,7 @@ layout: post
 categories: [technology]
 tags: c3admin
 ---
-![Microsoft Surface](http://c3inspire.com/wp-content/uploads/2012/11/steveballmersurface_large_verge_medium_landscape1-300x200.jpg)
+![Microsoft Surface](http://i.imgur.com/4UUdjOC.jpg)
 
 With the debut of various pieces of software and hardware such as the Windows 8 OS, the Microsoft Surface tablet, and the Window Phone 8 platform from Microsoft, we have three amazing opportunities to share with you:
 

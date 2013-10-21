@@ -4,7 +4,7 @@ title: "Douglas Lusted (Weston Expressions): Overcoming challenges and making hi
 categories: [career, interview, ventures]
 tags: c3admin
 ---
-![Douglas Lusted](http://c3inspire.com/wp-content/uploads/2012/09/doug9-225x300.jpeg)
+![Douglas Lusted](http://i.imgur.com/pb7bgqol.jpg)
 Photo Credit: Matthew Chang - Conrad Business, Entrepreneurship, and Technology
 
 We recently had the opportunity to sit down with Douglas (Doug) Lusted, founder of Weston Expressions. He shared with us the story of how he developed his promising business and some of the challenges he faced along the way.

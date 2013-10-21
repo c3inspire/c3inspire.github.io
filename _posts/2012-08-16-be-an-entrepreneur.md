@@ -4,7 +4,7 @@ title: "Kiss Your Boss Goodbye. It’s Time to Be an Entrepreneur – Alan Hall"
 categories: [career, reading]
 tags: c3admin
 ---
-![Goodbye Business](http://c3inspire.com/wp-content/uploads/2012/09/Goodbye-Business-150x150.jpeg)
+![Goodbye Business](http://i.imgur.com/jR3Mfkl.jpg)
 
 “Not happy, not satisfied, not productive, not loyal, not inspired…” If this describes your typical day at work then maybe it’s time to hop out. [Alan Hall](http://blogs.forbes.com/alanhall/)‘s article shows you the art of saying goodbye and succeed as an entrepreneur! Below is an excerpt from his article:
 
