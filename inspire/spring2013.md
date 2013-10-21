@@ -7,7 +7,7 @@ C3 held an "Inspire" event on March 28th at Wilfrid Laurier University starring 
 <div class="row">
 	<div class="col-md-2"></div>
 	<div class="col-md-8">
-		<img src="http://c3inspire.com/wp-content/uploads/2013/03/DSC_4241-1024x682.jpg" alt="Spring 2013" class="img-thumbnail img-responsive">
+		<img src="http://i.imgur.com/XbywLya.jpg" alt="Spring 2013" class="img-thumbnail img-responsive">
 	</div>
 </div>
 
@@ -15,7 +15,7 @@ C3 held an "Inspire" event on March 28th at Wilfrid Laurier University starring 
 
 <ul class="media-list">
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/03/Martha-Hall-Findlay-2b-226x300.jpg" alt="Martha Hall Findlay">
+		<img class="media-object pull-left" src="http://i.imgur.com/Z2GtA4M.jpg" alt="Martha Hall Findlay">
 		<div class="media-body">
 			<h4 class="media-heading">Martha Hall Findlay, Candidate for the Leadership of the Liberal Party of Canada</h4>
 			<p>Martha is a successful, lawyer, businesswoman and entrepreneur with experience in small businesses and major multi-national corporations. She is currently the Chief Legal Officer at EnStream LP and Executive Fellow at the School of Public Policy at the University of Calgary. She is the former Liberal MP for Willowdale and has held Official Opposition Critic roles for International Trade; Associate Finance; Transport, Infrastructure &amp; Communities, and Public Works &amp; Government Services. Martha believes that Canada must have intelligent government, acting to achieve real solutions that are not based on ideology or domestic political advantage. To lead Canada again, the Liberal Party must prove to Canadians that it, too, is smart, with policies based on facts and based on an understanding of economics, global markets, investment - and people.</p>
@@ -24,7 +24,7 @@ C3 held an "Inspire" event on March 28th at Wilfrid Laurier University starring 
 		</div>
 	</li>
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/03/Mike-Kirkup-Casual-e1363699798654.png" alt="Mike Kirkup">
+		<img class="media-object pull-left" src="http://i.imgur.com/ZQ0LnBY.png" alt="Mike Kirkup">
 		<div class="media-body">
 			<h4 class="media-heading">Mike Kirkup, Director, Velocity and Student Innovation, University of Waterloo</h4>
 			<p>Mike Kirkup is the Director for the VeloCity program at the University of Waterloo, which is responsible for managing the entrepreneurship and innovation programs for students and alumni. Mike and his team work closely with students and alumni to help them build great startups.</p>
@@ -33,7 +33,7 @@ C3 held an "Inspire" event on March 28th at Wilfrid Laurier University starring 
 		</div>
 	</li>
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/03/Melissa-Uintution-e1363878238303-150x150.jpg" alt="Melissa Morgan">
+		<img class="media-object pull-left" src="http://i.imgur.com/NXVlUXJ.jpg" alt="Melissa Morgan">
 		<div class="media-body">
 			<h4 class="media-heading">Melissa Morgan, CEO and Co-Founder of uIntuition Inc</h4>
 			<p>Melissa Morgan is 19, and she has already worked as a model, actress, designer, photographer and TV intern. In November, she added CEO and Co-Founder of uIntuition Inc to her resume. <strong>Upon attending last year's C3 Conference, she met her now business partner, the Chief Operations Officer of uIntuition.</strong></p>
