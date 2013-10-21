@@ -17,7 +17,7 @@ title: C3 Ambassador and Networking Reception
 
 <ul class="media-list">
 	<li class="media">
-		<img class="media-object pull-left" src="http://c3inspire.com/wp-content/uploads/2013/10/larry_smith-150x150.jpg" alt="Larry Smith">
+		<img class="media-object pull-left" src="http://i.imgur.com/pf09ZBO.jpg" alt="Larry Smith">
 		<div class="media-body">
 			<h4 class="media-heading">Larry Smith</h4>
 			<p>Throughout his three-decade career here at the University of Waterloo, Larry Smith has inspired legions of students to take up the mantle of economics with his passionate and homespun tales of economic wizardry.</p>
