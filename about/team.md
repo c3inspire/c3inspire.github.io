@@ -120,14 +120,21 @@ We're constantly looking for talented individuals to join the team. If you're in
 		<img class="media-object pull-left" src="http://i.imgur.com/5dGqt92.jpg" alt="Elaine Vuong">
 		<div class="media-body">
 			<h4 class="media-heading">Elaine Vuong, UofT Scarborough Team Lead</h4>
-            <p>Elaine is a second year Co-op Management student at the University of Toronto Scarborough specializing in Accounting. She is the UofT Scarborough Team Lead and she’s so excited to bring this stellar conference to the students at UTSC – the entrepreneurship spirit glows bright out in Scarborough! She’s an avid musician – playing instruments from piano, clarinet, and voice. As well, she enjoys doing pilates, playing badminton and writing short stories and reading in her spare time.</p>
+			<p>Elaine is a second year Co-op Management student at the University of Toronto Scarborough specializing in Accounting. She is the UofT Scarborough Team Lead and she’s so excited to bring this stellar conference to the students at UTSC – the entrepreneurship spirit glows bright out in Scarborough! She’s an avid musician – playing instruments from piano, clarinet, and voice. As well, she enjoys doing pilates, playing badminton and writing short stories and reading in her spare time.</p>
 		</div>
 	</li>
 	<li class="media">
 		<img class="media-object pull-left" src="http://i.imgur.com/auuL94m.jpg" alt="Prateeksha Ravi">
 		<div class="media-body">
 			<h4 class="media-heading">Prateeksha Ravi, External Relations Manager</h4>
-            <p>Prateeksha is a third year student at the University of Waterloo, studying Legal Studies and Human Resource Management. Highly involved in various extra curricular activities around school and within the community, Prateeksha is a very charismatic person who loves to socialize and make new connections. She enjoys taking part in leadership conferences and believes in making a change. Every task she brings upon myself is dealt with the utmost honesty, integrity, and passion. Humbled with the opportunity to take on the role as the External Relations Manager, she has high hopes of making C3 a larger initiative and in spreading the word, she is very excited in working with this team to make the conference bigger and better. Being a forward-thinking person who is fearless when it comes to trying new things, Prateeksha intends to help myself and those around me succeed by being pro-active, empowering and inspirational. She firmly believe that perfection is not a destination, but the process of continuous improvement.</p>
+			<p>Prateeksha is a third year student at the University of Waterloo, studying Legal Studies and Human Resource Management. Highly involved in various extra curricular activities around school and within the community, Prateeksha is a very charismatic person who loves to socialize and make new connections. She enjoys taking part in leadership conferences and believes in making a change. Every task she brings upon myself is dealt with the utmost honesty, integrity, and passion. Humbled with the opportunity to take on the role as the External Relations Manager, she has high hopes of making C3 a larger initiative and in spreading the word, she is very excited in working with this team to make the conference bigger and better. Being a forward-thinking person who is fearless when it comes to trying new things, Prateeksha intends to help myself and those around me succeed by being pro-active, empowering and inspirational. She firmly believe that perfection is not a destination, but the process of continuous improvement.</p>
+		</div>
+	</li>
+	<li class="media">
+		<img class="media-object pull-left" src="http://i.imgur.com/Z4UpsWi.jpg" alt="Julie Tran">
+		<div class="media-body">
+			<h4 class="media-heading">Julie Tran</h4>
+			<p>Julie is in her final year at Ryerson University majoring in Graphic Communications Management and minoring in Marketing. Julie has been part of many student groups and extra circulars within Ryerson and has been made an impact at The Ted Rogers School of Management. She was on the Ryerson Dragon Boat team and enjoys volunteering on her spare time. She is passionate about leadership, international travel and giving back to the community.</p>
 		</div>
 	</li>
 </ul>
