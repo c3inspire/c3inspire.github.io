@@ -6,6 +6,6 @@ title: Inspire Events
     <img src="http://i.imgur.com/hD5d5Pj.jpg" alt="C3 Inspire Event" class="img-thumbnail img-responsive pull-right">
 </div>
 
-Inspire events will also stay true to the c3 spirit of connecting, collaborating and creating. These events promise to bring together smart and interesting people from a wide range of diverse backgrounds for you to take advantage of during our post event networking sessions.
+Inspire events will also stay true to the C3 spirit of connecting, collaborating and creating. These events promise to bring together smart and interesting people from a wide range of diverse backgrounds for you to take advantage of during our post event networking sessions.
 
 Join us for these short insightful power sessions and get inspired!
