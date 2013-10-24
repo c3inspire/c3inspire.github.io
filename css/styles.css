@@ -2,22 +2,13 @@ body {
 	background: rgb(244, 244, 244);
 }
 
-hr {
-	border-top: 1px dashed #ccc;
-}
-
 .jumbotron {
 	margin-top: 30px;
 	margin-bottom: 0;
 	background: white;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
 	border: 1px solid #d6d6d6;
-}
-
-@media screen {
-	.container .jumbotron {
-		border-bottom-left-radius: 0;
-		border-bottom-right-radius: 0;
-	}
 }
 
 .navbar {
