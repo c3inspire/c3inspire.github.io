@@ -17,20 +17,7 @@
 				<div class="col-md-8">
 					{{ content }}
 					<br>
-					<div class="row">
-						<div class="col-xs-3">
-						{% include like_button.html %}
-						</div>
-						<div class="col-xs-3">
-						{% include tweet_button.html %}
-						</div>
-						<div class="col-xs-3">
-						{% include inshare_button.html %}
-						</div>
-						<div class="col-xs-3">
-						{% include plusone_button.html %}
-						</div>
-					</div>
+					{% include social.html %}
 				</div>
 				<div class="col-md-4 hidden-xs hidden-sm">
 					{% include twitter_timeline.html height="600" %}
