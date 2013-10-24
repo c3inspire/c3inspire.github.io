@@ -1,17 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width,initial-scale=1.0">
-	<title>{{ page.title }} &#8226; {{ site.name }}</title>
-	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" media="screen">
-	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css">
-	<script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
-	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/social-icon-font.css">
-	<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/styles.css">
-	<link rel="icon" type="image/png" href="{{ site.url }}/img/icon.png">
-	<link rel="apple-touch-icon-precomposed" type="image/png" href="{{ site.url }}/img/icon.png">
+	{% include head.html %}
 	{% include google_analytics.html %}
 </head>
 <body>
