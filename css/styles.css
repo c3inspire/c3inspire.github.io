@@ -87,7 +87,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 
 @media screen and (max-width: 767px) {
 	#carousel-home .carousel-inner .item img {
-		max-height: 150px;
+		max-height: 100px;
 	}
 }
 
