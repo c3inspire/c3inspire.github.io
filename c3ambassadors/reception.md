@@ -2,9 +2,9 @@
 layout: default
 title: C3 Ambassador and Networking Reception
 ---
-### November 6th, 2013 from 5:30-7:30PM at the University Club
+### November 6th, 2013 from 5:30-7:30PM at the UW University Club
 
-#### UW Tickets are $25
+#### Tickets are $25
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
