@@ -8,14 +8,10 @@ title: Waterloo 2013 Conference Breakout Sessions
 
 In this session, delegates will explore current trends and brainstorm ideas they can pursue together. Advisors will help students explore the potential of their ideas.
 
-<br>
-
 ### Session 2: Developing a Business Model
 
 In this session, delegates will look at how they can transform their idea into a working project. They will explore such things as target markets, distribution channels, and the daily activities required to deliver the value they propose.
 
-<br>
+### Session 3: Developing a Pitch
 
-### Session 3: Maintaining Idea Momentum
-
-In this session, groups will develop their strategies for continuing the creation process beyond the conference. This will include developing high-level project plans, immediate next steps, and team member roles.
+In this session, groups will develop a pitch for their idea and have the opportunity to practice their pitch in front of their breakout session room. The top pitches from each breakout session room will have the opportunity to pitch their idea in front of the whole conference as well as a panel of distinguished judges.
