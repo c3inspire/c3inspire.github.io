@@ -2,7 +2,9 @@
 layout: default
 title: Waterloo 2013 Conference Breakout Sessions
 ---
-<img src="http://i.imgur.com/sNyyyOol.jpg" alt="Breakout Session" class="img-thumbnail pull-right">
+<div class="col-md-6 pull-right">
+	<img src="http://i.imgur.com/sNyyyOol.jpg" alt="Breakout Session" class="img-thumbnail img-responsive">
+</div>
 
 ### Session 1: Team Idea Generation
 
