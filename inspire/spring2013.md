@@ -2,7 +2,7 @@
 layout: default
 title: C3 Inspire Spring 2013
 ---
-C3 held an "Inspire" event on March 28th at Wilfrid Laurier University starring 3 amazing and inspirational speakers, Martha Hall Findlay, Mike Kirkup, and Melissa Morgan. There was also be a networking session with people from UW, WLU and the Kitchener Waterloo community where participants could connect, collaborate and create afterwards.
+C3 held an "Inspire" event on March 28th at Wilfrid Laurier University starring 3 amazing and inspirational speakers: Martha Hall Findlay, Mike Kirkup, and Melissa Morgan. There was also a networking session with people from UW, WLU and the Kitchener Waterloo community in which participants could connect, collaborate, and create.
 
 <div class="row">
 	<div class="col-md-2"></div>
