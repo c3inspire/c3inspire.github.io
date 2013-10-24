@@ -85,6 +85,30 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	margin: auto;
 }
 
+@media screen and (max-width: 767px) {
+	#carousel-home .carousel-inner .item img {
+		max-height: 250px;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	#carousel-home .carousel-inner .item img {
+		max-height: 300px;
+	}
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+	#carousel-home .carousel-inner .item img {
+		max-height: 350px;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	#carousel-home .carousel-inner .item img {
+		max-height: 450px;
+	}
+}
+
 @media screen and (min-width: 768px) {
 	.media-list > li > img {
 		width: 140px;
