@@ -13,12 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar {
 	border: 0;
-	background: #626262;
-	background: -webkit-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
-	background: -moz-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
-	background: -o-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
-	background: -ms-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
-	background: linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	background: rgb(12, 71, 115);
 }
 
 .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
@@ -26,11 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav li:hover {
-	background: -webkit-linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
-	background: -moz-linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
-	background: -o-linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
-	background: -ms-linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
-	background: linear-gradient(top, rgb(87, 87, 87), rgb(108, 108, 108));
+	background: rgb(32, 91, 135);
 }
 
 ul.nav li.dropdown:hover > ul.dropdown-menu {
@@ -122,12 +113,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 }
 
 .testimonials {
-	background: #626262;
-	background: -webkit-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
-	background: -moz-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
-	background: -o-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
-	background: -ms-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
-	background: linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
+	background: rgb(12, 71, 115);
 	border-radius: 4px;
 }
 
