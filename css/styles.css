@@ -1,11 +1,11 @@
 body {
 	background: rgb(244, 244, 244);
-	/* font-family: 'Quicksand', sans-serif; */
+	font-family: 'Quicksand', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-/* h1, h2, h3, h4 { */
-/* 	font-family: 'Julius Sans One', sans-serif; */
-/* } */
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Julius Sans One', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
 
 .jumbotron {
 	margin-top: 30px;
