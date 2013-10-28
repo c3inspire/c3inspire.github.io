@@ -1,5 +1,4 @@
 body {
-	background: rgb(244, 244, 244);
 	font-family: 'Quicksand', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -8,17 +7,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .jumbotron {
-	margin-top: 30px;
 	margin-bottom: 0;
 	background: white;
-	border-bottom-left-radius: 0;
-	border-bottom-right-radius: 0;
-	border: 1px solid #d6d6d6;
 }
 
 .navbar {
-	border-top-left-radius: 0;
-	border-top-right-radius: 0;
 	border: 0;
 	background: #626262;
 	background: -webkit-linear-gradient(top, rgb(108, 108, 108), rgb(87, 87, 87));
