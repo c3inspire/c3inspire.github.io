@@ -49,6 +49,11 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	top: -1px;
 }
 
+.breadcrumb {
+	background: none;
+	text-transform: uppercase;
+}
+
 .carousel-caption {
 	background: #666;
 	background: rgba(102, 102, 102, .8);
