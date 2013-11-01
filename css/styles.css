@@ -7,8 +7,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .jumbotron {
-	margin-bottom: 0;
-	background: white;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	background: none;
 }
 
 .navbar {
@@ -34,12 +36,11 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 
 .social {
 	color: #777;
-	font-size: 1.2em;
 }
 
 @media screen and (min-width: 768px) {
 	.social {
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 }
 
