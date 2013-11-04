@@ -112,7 +112,7 @@ We're constantly looking for talented individuals to join the team. If you're in
 	<li class="media">
 		<img class="media-object pull-left" src="http://i.imgur.com/WoSPPpp.jpg" alt="Alyssa Szeto">
 		<div class="media-body">
-			<h4 class="media-heading">Alyssa Szeto, Ryerson Team Lead</h4>
+			<h4 class="media-heading">Alyssa Szeto, Ryerson Executive Team</h4>
 			<p>Alyssa is currently a student at Ryerson University studying at The School of Graphic Communications Management, the only degree offering program in Canada for the print industry. Alyssa is extensively involved in extracurricular activities within the industry and is passionate about traveling. She has recently worked with the ministry of education in the production department and attended an exchange in Sweden.</p>
 		</div>
 	</li>
@@ -133,7 +133,7 @@ We're constantly looking for talented individuals to join the team. If you're in
 	<li class="media">
 		<img class="media-object pull-left" src="http://i.imgur.com/Z4UpsWi.jpg" alt="Julie Tran">
 		<div class="media-body">
-			<h4 class="media-heading">Julie Tran</h4>
+			<h4 class="media-heading">Julie Tran, Ryerson Executive Team Lead</h4>
 			<p>Julie is in her final year at Ryerson University majoring in Graphic Communications Management and minoring in Marketing. Julie has been part of many student groups and extra circulars within Ryerson and has been made an impact at The Ted Rogers School of Management. She was on the Ryerson Dragon Boat team and enjoys volunteering on her spare time. She is passionate about leadership, international travel and giving back to the community.</p>
 		</div>
 	</li>
