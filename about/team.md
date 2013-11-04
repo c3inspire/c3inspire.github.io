@@ -144,4 +144,11 @@ We're constantly looking for talented individuals to join the team. If you're in
 			<p>Filippo is in his final year of Neuroscience and Political Science at the University of Toronto Scarborough Campus.  He believes that the world is ripe for the taking and C3 is an opportunity to change people's self definitions. A lover of football, squash, and cooking, Filippo looks to challenge himself and discover where he can go in the world.</p>
 		</div>
 	</li>
+	<li class="media">
+		<img class="media-object pull-left" src="http://i.imgur.com/b9c8PBU.jpg" alt="Brian Hui">
+		<div class="media-body">
+			<h4 class="media-heading">Brian Hui, Ryerson Executive Team</h4>
+			<p>Brian is in his fourth year in the Graphic Communications Management program at Ryerson University. Throughout his time at Ryerson, he has been involved with many extracurricular initiatives at Ryerson including the Ryerson Commerce Society, Ryerson Communication & Design Society, Graphic Communications Management Course Union, and Ted Rogers Management Conference. When he's not doing school work or busy doing extracurricular activities, Brian enjoys reading, camping, and video games. He is extremely passionate in his extracurricular endeavors and hopes to bring the same passion to the C3 Inspire team.</p>
+		</div>
+	</li>
 </ul>
