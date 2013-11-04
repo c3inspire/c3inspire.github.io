@@ -119,7 +119,7 @@ We're constantly looking for talented individuals to join the team. If you're in
 	<li class="media">
 		<img class="media-object pull-left" src="http://i.imgur.com/5dGqt92.jpg" alt="Elaine Vuong">
 		<div class="media-body">
-			<h4 class="media-heading">Elaine Vuong, UofT Scarborough Team Lead</h4>
+			<h4 class="media-heading">Elaine Vuong, UofT Scarborough Executive Team</h4>
 			<p>Elaine is a second year Co-op Management student at the University of Toronto Scarborough specializing in Accounting. She is the UofT Scarborough Team Lead and she’s so excited to bring this stellar conference to the students at UTSC – the entrepreneurship spirit glows bright out in Scarborough! She’s an avid musician – playing instruments from piano, clarinet, and voice. As well, she enjoys doing pilates, playing badminton and writing short stories and reading in her spare time.</p>
 		</div>
 	</li>
