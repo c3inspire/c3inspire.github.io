@@ -38,7 +38,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	color: #777;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 481px) {
 	.social {
 		font-size: 1.5em;
 	}
