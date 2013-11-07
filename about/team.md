@@ -100,6 +100,10 @@ team:
     title: Ryerson Executive Team
     photo: http://i.imgur.com/b9c8PBU.jpg
     bio: "Brian is in his fourth year in the Graphic Communications Management program at Ryerson University. Throughout his time at Ryerson, he has been involved with many extracurricular initiatives at Ryerson including the Ryerson Commerce Society, Ryerson Communication & Design Society, Graphic Communications Management Course Union, and Ted Rogers Management Conference. When he's not doing school work or busy doing extracurricular activities, Brian enjoys reading, camping, and video games. He is extremely passionate in his extracurricular endeavors and hopes to bring the same passion to the C3 Inspire team."
+  - name: Karen Young
+    title: UofT Scarborough Executive Team
+    photo: http://i.imgur.com/9eqMWwil.jpg
+    bio: "Karen is going into her third year at the University of Toronto Scarborough specializing in psychology. In her first years of undergrad, she co-founded and co-chaired TEDxUTSC, the first campus-wide TEDx conference at the University of Toronto. She is passionate about mental health as well as organizational development and seeks to marry the two one day. She loves learning, personal development, and helping others. Actions speak louder than words, always."
 ---
 ## Want to be part of the Team?
 We're constantly looking for talented individuals to join the team. If you're interested in helping out, please contact us. We also have various positions available on the Exec Team, find the one that suits you and apply to be part of the Team!
