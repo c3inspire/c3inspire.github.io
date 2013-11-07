@@ -105,7 +105,7 @@ team:
     photo: http://i.imgur.com/9eqMWwil.jpg
     bio: "Karen is going into her third year at the University of Toronto Scarborough specializing in psychology. In her first years of undergrad, she co-founded and co-chaired TEDxUTSC, the first campus-wide TEDx conference at the University of Toronto. She is passionate about mental health as well as organizational development and seeks to marry the two one day. She loves learning, personal development, and helping others. Actions speak louder than words, always."
   - name: Aseem Sharma
-    title:
+    title: E-Marketing Manager
     photo: http://i.imgur.com/VIgMVZ5.jpg
     bio: "Aseem is a graduate of Masters in Business, Entrepreneurship and Technology program at University of Waterloo. He has a passion for start ups and is currently engaged as a consultant (Business development and content strategy) with rockims.com, a website development and SEO company. He is also an author and a community moderator with opensource.com. Prior to moving to Canada, Aseem worked in systems engineering roles in Encora technologies, Citibank, Bank of America Merrill Lynch and Mahindra Tech. across Singapore and India. He is an avid writer and blogs at aseemsharma.info."
 ---
