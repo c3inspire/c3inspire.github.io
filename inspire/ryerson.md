@@ -14,7 +14,7 @@ title: Ryerson Event
 		</div>
 	</li>
 	<li class="media">
-		<img class="media-object pull-left" src="http://i.imgur.com/dl90ewu.jpg" alt="Ante A. Rupcic">
+		<img class="media-object pull-left" src="http://i.imgur.com/BPtnp4Wl.jpg" alt="Ante A. Rupcic">
 		<div class="media-body">
 			<h4 class="media-heading">Ante A. Rupcic, Vice President, Core Network, WIND Mobile</h4>
 			<p>Ante was uniquely qualified to build Canada’s first ever all-IP, 3G+ mobile national network from the ground up.  Having worked at Canadian telecom incumbents as well as international wireless start-ups in China, Romania, Czech Republic, UK and Brazil - Wind Mobile represents his 6th network build worldwide and the 3rd telco he’s worked for in Canada.</p>
