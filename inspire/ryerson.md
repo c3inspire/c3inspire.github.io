@@ -27,4 +27,11 @@ title: Ryerson Event
 			</a>
 		</div>
 	</li>
+	<li class="media">
+		<img class="media-object pull-left" src="http://i.imgur.com/XBnUrfkl.jpg" alt="Keith Kwan">
+		<div class="media-body">
+			<h4 class="media-heading">Keith Kwan, Senior Manager, Deloitte Growth Enterprises</h4>
+			<p>Keith obtained his CA designation in 2003 and has continued to enjoy his career in public accounting.  As a senior manager with Deloitte's Growth Enterprises group, he provides business advisory and assurance services to Canadian private companies.   Keith is also actively involved in the firm's university recruitment processes and he is frequently invited to share his extensive experience in youth leadership and business skills development.  Most recently, Keith joined the National Leadership Team of Canada's Best Managed Companies program, which is the leading business awards program in this country that recognizes excellence in Canadian-owned and -managed companies.</p>
+		</div>
+	</li>
 </ul>
