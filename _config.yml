@@ -1,8 +1,5 @@
 name: C3 Inspire
 safe: true
-exclude: [README.md, LICENSE.md, Gemfile, Gemfile.lock, vendor]
+exclude: [README.md, LICENSE.md, CNAME, Gemfile, Gemfile.lock]
 paginate: 5
 paginate_path: blog/page:num
-markdown: redcarpet
-redcarpet:
-  extensions: [smart, hard_wrap, no_intra_emphasis, autolink, strikethrough, fenced_code_blocks]
