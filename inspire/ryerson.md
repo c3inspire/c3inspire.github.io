@@ -2,6 +2,20 @@
 layout: default
 title: Ryerson Event
 ---
+<div class="col-md-8">
+	<div class="text-center">
+		<h3>Date: Tuesday November 19th, 2013</h3>
+		<h3>Time: 4:30 PM</h3>
+		<h3>Location: The Ted Rogers School of Management, Room 3-119</h3>
+	</div>
+	<br>
+	<p class="lead">Unleash your potential at the C3 Inspire event held at Ryerson University for the very first time. Top speakers from WIND Mobile, Deloitte and Omers Ventures will be giving students an insight on how to connect, collaborate and create and turn your business ideas into reality.</p>
+</div>
+<div class="col-md-4 hidden-xs hidden-sm">
+	<img src="http://i.imgur.com/GXTSKIf.jpg" "The Ted Rogers School of Management" class="img-responsive">
+</div>
+<div class="clearfix"></div>
+
 ### Speakers:
 
 <ul class="media-list">
