@@ -29,15 +29,3 @@ Thanks to all the delegates that made our conference such a great success in 201
 		</div>
 	</li>
 </ul>
-
-### Sponsors
-
-<div class="row text-center">
-	<div class="col-sm-2"></div>
-	<div class="col-sm-4">
-		<img src="http://i.imgur.com/imndj2ul.jpg" alt="Wilfrid Laurier University" class="img-responsive">
-	</div>
-	<div class="col-sm-4">
-		<img src="http://i.imgur.com/REcC3I1l.jpg" alt="University of Waterloo" class="img-responsive">
-	</div>
-</div>
