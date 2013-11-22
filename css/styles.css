@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav li:hover {
-	background: rgba(32, 91, 135, 0.5);
+	background: rgba(32, 91, 135, 0.4);
 }
 
 ul.nav li.dropdown:hover > ul.dropdown-menu {
@@ -39,56 +39,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 
 .social, .social:hover {
 	text-decoration: none;
-}
-
-.social {
-	color: #777;
-}
-
-@media screen and (min-width: 481px) {
-	.social {
-		font-size: 1.5em;
-	}
-}
-
-.carousel-caption {
-	background: #666;
-	background: rgba(102, 102, 102, .8);
-	border-radius: 4px;
-	padding-left: 10px;
-	padding-right: 10px;
-}
-
-.carousel-control.left, .carousel-control.right {
-	background: none;
-}
-
-#carousel-home .carousel-inner .item img {
-	margin: auto;
-}
-
-@media screen and (max-width: 767px) {
-	#carousel-home .carousel-inner .item img {
-		max-height: 100px;
-	}
-}
-
-@media screen and (min-width: 768px) and (max-width: 991px) {
-	#carousel-home .carousel-inner .item img {
-		max-height: 300px;
-	}
-}
-
-@media screen and (min-width: 992px) and (max-width: 1199px) {
-	#carousel-home .carousel-inner .item img {
-		max-height: 350px;
-	}
-}
-
-@media screen and (min-width: 1200px) {
-	#carousel-home .carousel-inner .item img {
-		max-height: 450px;
-	}
+	font-size: 1.5em;
 }
 
 @media screen and (min-width: 768px) {
