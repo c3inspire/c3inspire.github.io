@@ -21,16 +21,33 @@ h1, h2, h3, h4, h5, h6 {
 	height: 50px;
 }
 
-.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover {
+.navbar-default .navbar-nav > li > a {
 	color: rgb(12, 71, 115);
 }
 
-.nav li:hover {
-	background: rgba(32, 91, 135, 0.4);
+.navbar-default .navbar-nav > .dropdown > a .caret {
+	border-top-color: rgb(12, 71, 115);
+	border-bottom-color: rgb(12, 71, 115);
 }
 
-ul.nav li.dropdown:hover > ul.dropdown-menu {
-    display: block;
+.navbar-default .navbar-nav > li > a:hover {
+	color: white;
+	background: rgb(12, 71, 115);
+}
+
+.navbar-default .navbar-nav > .dropdown > a:hover .caret {
+	border-top-color: white;
+	border-bottom-color: white;
+}
+
+.navbar-default .navbar-nav > .dropdown.open > a .caret {
+	border-top-color: white;
+	border-bottom-color: white;
+}
+
+.navbar-default .navbar-nav > .dropdown.open > a {
+	color: white;
+	background: rgb(12, 71, 115);
 }
 
 .navbar-collapse {
