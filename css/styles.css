@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar {
-	padding-top: 20px;
+	margin-top: 20px;
 	border: 0;
 	box-shadow: none;
 	background: white;
@@ -19,6 +19,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-logo {
 	height: 50px;
+}
+
+.navbar-nav > li > a.navbar-icon {
+	padding-top: 11px;
+	padding-bottom: 11px;
 }
 
 .navbar-default .navbar-nav > li > a {
