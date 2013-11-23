@@ -8,22 +8,21 @@
 <body>
 	<div class="container">
 		{% include header.html %}
-		<div class="panel panel-default">
-			<div class="panel-heading">
-				<h3 class="panel-title">{{ page.title }}</h3>
+		<div class="page-header">
+			<h1>{{ page.title }}</h1>
+		</div>
+		<div class="row page-content">
+			<div class="col-md-8">
+				{{ content }}
+				<div class="clearfix"></div>
 			</div>
-			<div class="panel-body">
-				<div class="col-md-8">
-					{{ content }}
-				</div>
-				<div class="col-md-4 hidden-xs hidden-sm">
-					{% include twitter_timeline.html height="2000" %}
-				</div>
+			<div class="col-md-4 hidden-xs hidden-sm">
+				{% include twitter_timeline.html height="2000" %}
 			</div>
+			<div class="clearfix"></div>
 		</div>
 		{% include testimonials.html %}
 		{% include footer.html %}
-		<br>
 	</div><!-- container -->
 </body>
 </html>
