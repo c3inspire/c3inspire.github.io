@@ -7,7 +7,7 @@ C3 held an "Inspire" event on March 28th at Wilfrid Laurier University starring 
 <div class="row">
 	<div class="col-md-2"></div>
 	<div class="col-md-8">
-		<img src="http://i.imgur.com/XbywLya.jpg" alt="Spring 2013" class="img-thumbnail img-responsive">
+		<img src="http://i.imgur.com/XbywLyal.jpg" alt="Spring 2013" class="img-thumbnail img-responsive">
 	</div>
 </div>
 
