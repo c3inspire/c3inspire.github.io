@@ -7,17 +7,15 @@
 <body>
 	<div class="container">
 		{% include header.html %}
-		<div class="panel panel-default">
-			<div class="panel-heading">
-				<h3 class="panel-title">{{ page.title }}</h3>
-			</div>
-			<div class="panel-body">
-				{{ content }}
-			</div>
+		<div class="page-header">
+			<h1>{{ page.title }}</h1>
+		</div>
+		<div class="page-content">
+			{{ content }}
+			<div class="clearfix"></div>
 		</div>
 		{% include testimonials.html %}
 		{% include footer.html %}
-		<br>
 	</div><!-- container -->
 </body>
 </html>

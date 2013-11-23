@@ -81,6 +81,10 @@ h1, h2, h3, h4, h5, h6 {
 	text-decoration: none;
 }
 
+.page-content, .footer {
+	margin-bottom: 20px;
+}
+
 .conference-breakout {
 	margin: auto;
 }
