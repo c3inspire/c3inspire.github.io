@@ -9,3 +9,9 @@ title: Inspire Events
 Inspire events will also stay true to the C3 spirit of connecting, collaborating and creating. These events promise to bring together smart and interesting people from a wide range of diverse backgrounds for you to take advantage of during our post event networking sessions.
 
 Join us for these short insightful power sessions and get inspired!
+
+## [C3 Inspire Ryerson](/inspire/ryerson)
+
+## [C3 Inspire Laurier](/inspire/spring2013)
+
+## [C3 Idea Showcase Waterloo](/inspire/ideashowcase2012)
