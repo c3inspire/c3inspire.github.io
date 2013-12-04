@@ -7,17 +7,9 @@ title: Partners
 </div>
 
 <div class="partners">
-	<img src="http://i.imgur.com/mberL7Tl.jpg" alt="Toronto Workforce Innovation Group" width="256" class="img-thumbnail partner">
-	<img src="http://i.imgur.com/REcC3I1l.jpg" alt="University of Waterloo" width="256" class="img-thumbnail partner">
-	<img src="http://i.imgur.com/imndj2ul.jpg" alt="Wilfrid Laurier University" width="256" class="img-thumbnail partner">
-	<img src="http://i.imgur.com/bDO7OiSl.png" alt="SoJo" width="256" class="img-thumbnail partner">
-	<img src="http://i.imgur.com/mkhVQufl.png" alt="Microsoft" width="256" class="img-thumbnail partner">
-	<img src="http://i.imgur.com/vGZqyv3l.png" alt="Prism Resources" width="256" class="img-thumbnail partner">
-	<img src="http://i.imgur.com/hOHYZPul.jpg" alt="Women in Leadership Laurier" width="256" class="img-thumbnail partner">
-	<img src="http://i.imgur.com/sS9Zsurl.jpg" alt="E-Business Laurier" width="256" class="img-thumbnail partner">
-	<img src="http://i.imgur.com/0Tta5Itl.jpg" alt="UWE" width="256" class="img-thumbnail partner">
-	<img src="http://i.imgur.com/tgrpTKVl.jpg" alt="St. Paul's Green House" width="256" class="img-thumbnail partner">
-	<img src="http://i.imgur.com/DcmusHBl.png" alt="SparkGig" width="256" class="img-thumbnail partner">
+	{% for partner in site.data.partners %}
+	<img src="{{ partner.logo }}" alt="{{ partner.name }}" width="256" class="img-thumbnail partner">
+	{% endfor %}
 </div>
 <script>
 	$(window).load(function(){
