@@ -10,6 +10,8 @@ title: UTSC Event
 <br>
 <p class="lead">C3 Inspire is hosting a kickoff event at UTSC on Monday, January 13 from 5-7PM in the Hub! Featuring Christine Lu, Co-Social Director at Edelman, Dr. Joshua Liu, Co-Founder and CEO at Seamless Mobile Health, and Daniel Bartek - Co-founder and CEO at Sage Mixology - this is a line up of speakers you don't want to miss. Hear their inspiring entrepreneurial stories, build your professional network, enjoy some free food and learn more about C3 Inspire and our C3 Conference coming up in late January. We look forward to seeing you there.</p>
 
+<iframe src="https://docs.google.com/forms/d/1NPycVxNuaRXQgElWI2c2XN9EwY1AlyljK8mR5HDjZeY/viewform?embedded=true" height="700" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; margin: auto;">Loading...</iframe>
+
 ## Speakers:
 
 <ul class="media-list">
