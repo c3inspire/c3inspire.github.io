@@ -41,7 +41,7 @@ The C3 Conference is a one day conference that brings together *aspiring* and *h
 
 <br>
 
-### [Conference Schedule](/c3conference/waterloo2013/schedule)
+### [Conference Schedule](/c3conference/schedule)
 
 <br>
 
