@@ -8,7 +8,8 @@ title: Idea Showcase 2012
 
 The purpose of C3 Idea Showcase is to provide early stage entrepreneurs an opportunity to showcase their ideas in front of an audience filled with talented students and experienced professionals. Idea Showcase participants range from for profit businesses to inspiring social change ideas and each has an inspiring story to share. The participating entrepreneurs benefit from an opportunity to showcase their hard work in a public setting. It also gives them a chance to motivate others to join their initiatives. The audience also benefits as they will get a chance to gain exposure to the latest technologies and cutting edge ideas. At the conclusion of the presentations, there is plenty of time for networking so that everyone has an opportunity to connect, collaborate and create!
 
-<div class="clearfix"></div>
+<br>
+
 Some of our presenters from the last C3 Idea Showcase include:
 
 <div class="row">
