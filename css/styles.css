@@ -30,6 +30,11 @@ h1, h2, h3, h4, h5, h6 {
 	color: rgb(12, 71, 115);
 }
 
+.navbar-default .navbar-nav > li > a.apply {
+	color: white;
+	background: rgb(12, 71, 115);
+}
+
 .navbar-default .navbar-nav > .dropdown > a .caret {
 	border-top-color: rgb(12, 71, 115);
 	border-bottom-color: rgb(12, 71, 115);
@@ -38,6 +43,11 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .navbar-nav > li > a:hover {
 	color: white;
 	background: rgb(12, 71, 115);
+}
+
+.navbar-default .navbar-nav > li > a.apply:hover {
+	color: white;
+	background: rgb(22, 81, 125);
 }
 
 .navbar-default .navbar-nav > .dropdown > a:hover .caret {
