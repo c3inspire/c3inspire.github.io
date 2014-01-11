@@ -15,3 +15,5 @@ C3 is expanding to include universities in the GTA. Let your friends at the Univ
 The C3 Team is hard at work planning the first ever C3 Conference in the GTA, and are very excited to be bringing through influential guest speakers for our participants.
 
 Check back for more details over the next couple of weeks! Or follow us on our [Facebook page](https://www.facebook.com/c3inspire) for more updates.
+
+<a href="/C3Conference.pdf" target="_blank">Get more information about the C3 Conference here</a>
