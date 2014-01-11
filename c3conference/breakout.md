@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Waterloo 2013 Conference Breakout Sessions
+title: Conference Breakout Sessions
 ---
 <div class="col-md-6 pull-right">
 	<img src="http://i.imgur.com/sNyyyOol.jpg" alt="Breakout Session" class="img-thumbnail img-responsive">
