@@ -6,11 +6,13 @@ title: Partners
 	<h2>Our Partners and Sponsors Include:</h2>
 </div>
 
-<div class="partners">
+<div class="col-xs-2"></div>
+<div class="partners col-xs-8">
 	{% for partner in site.data.partners %}
-	<img src="{{ partner.logo }}" alt="{{ partner.name }}" width="256" class="img-thumbnail partner">
+	<img src="{{ partner.logo }}" alt="{{ partner.name }}" width="180" class="img-thumbnail partner">
 	{% endfor %}
 </div>
+<div class="clearfix"></div>
 <script>
 	$(window).load(function(){
 		$('.partners').isotope({
