@@ -12,18 +12,3 @@ There are two streams within the conference. The first is for-profit entrepreneu
 <div class="text-center">
 	<img src="http://i.imgur.com/kXIcHYjl.jpg" alt="Breakout Session" class="conference-breakout img-responsive">
 </div>
-
-### How do the Breakout Sessions work?
-
-#### Session 1: Team Idea Generation
-In this session, delegates will explore current trends and brainstorm ideas they can pursue together. Advisors will help students explore the potential of their ideas.
-
-<br>
-
-#### Session 2: Developing a Business Model
-In this session, delegates will look at how they can transform their idea into a working project. They will explore such things as target markets, distribution channels, and the daily activities required to deliver the value they propose.
-
-<br>
-
-#### Session 3: Maintaining Idea Momentum
-In this session, groups will develop their strategies for continuing the creation process beyond the conference. This will include developing high-level project plans, immediate next steps, and team member roles.
