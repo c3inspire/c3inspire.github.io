@@ -21,4 +21,6 @@ Our vision is to unlock the huge potential of ambitious students by providing th
 #### The C3 Mission
 Our mission is to make the C3 Conferences the best events in Canada for amazing people to meet each other and where remarkable business and social change ideas begin. We believe that by bringing together high caliber individuals from different universities and backgrounds to start new initiatives we can increase their probability of success, accelerate the time it takes them to become successful and deepen the positive impact they make.
 
+<a href="/AboutTheC3InspireOrganization.pdf" target="_blank">Read more about the C3 Organization here</a>
+
 [Learn more about the current C3 Executive Team](/about/team)
