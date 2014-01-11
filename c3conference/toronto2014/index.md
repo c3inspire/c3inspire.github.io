@@ -12,6 +12,8 @@ title: Toronto C3 Conference
 ## The C3 Conference
 The C3 Conference is a one day conference that brings together aspiring and high-achieving students that have entrepreneurial spirit to connect, collaborate and create new initiatives. Students from various universities apply and only the best are selected to attend the conference. This ensures C3 participants are of the highest caliber and are motivated to make a positive difference in the world. The C3 Conference consists of 3 inspiring speakers, 3 breakout sessions that allows time to actually start a new initiative, and networking sessions that allow the delegates to meet other amazing individuals.
 
+<a href="/C3Conference.pdf" target="_blank">Learn more about the C3 conference here</a>
+
 ## C3 Conference Application and Conference Fee
 To attend the C3 Conference, you have to apply and be selected to attend. A conference fee of $50 will be charged to all successful applicants to cover the cost of the conference which includes a delicious gourmet lunch.
 
@@ -28,18 +30,18 @@ To make the C3 Conference as accessible as possible, we have teamed up with a nu
 
 ## Keynote Speakers
 
-<img src="http://i.imgur.com/FiP8gsr.png" alt="Google">
+<img src="http://i.imgur.com/tKFj16q.png" alt="Google">
 <br>
 Sara N-Marandi, Account Manager at Google
 <br>
 
-<img src="http://i.imgur.com/55nelse.png" alt="The Next 36">
-<img src="http://i.imgur.com/lpJWX6L.png" alt="Authentic Web">
+<img src="http://i.imgur.com/mLcEJ4K.png" alt="The Next 36">
+<img src="http://i.imgur.com/Jl11F5g.png" alt="Authentic Web">
 <br>
 Peter LaMantia, CEO of Authentic Web & Mentor for The Next 36
 <br>
 
-<img src="http://i.imgur.com/9DMD4VM.png" alt="Toronto Workforce Innovation Group">
+<img src="http://i.imgur.com/95URRH7.png" alt="Toronto Workforce Innovation Group">
 <br>
 Karen Lior, Executive Director of Toronto Workforce Innovation Group
 <br>
@@ -47,14 +49,12 @@ Karen Lior, Executive Director of Toronto Workforce Innovation Group
 ## Breakout Session Leaders
 At the C3 Conference, delegates have the chance to discuss their ideas with breakout session leaders from a variety of industries. For the 2014 Toronto C3 Conference, there will be breakout session leaders from the following organizations:
 
-<img src="http://i.imgur.com/FUN2NoP.png" alt="OMERS Ventures">
-<img src="http://i.imgur.com/4xLzIce.png" alt="Deloitte">
+<img src="http://i.imgur.com/yQBxK53.png" alt="OMERS Ventures">
+<img src="http://i.imgur.com/4DQaTOf.png" alt="Deloitte">
 <br>
-<img src="http://i.imgur.com/i4WqEWN.png" alt="Symantec">
-<img src="http://i.imgur.com/tBfdAXF.png" alt="Johnson &amp; Johnson">
+<img src="http://i.imgur.com/zNgFIrD.png" alt="Symantec">
+<img src="http://i.imgur.com/KwiJZnV.png" alt="Johnson &amp; Johnson">
 <br>
-<img src="http://i.imgur.com/N4Wcuw3.png" alt="Pitney Bowes">
-<img src="http://i.imgur.com/9DMD4VM.png" alt="Toronto Workforce Innovation Group">
-<img src="http://i.imgur.com/YwICKFA.png" alt="McCain">
-
-<a href="/C3Conference.pdf" target="_blank">Learn more about the C3 conference here</a>
+<img src="http://i.imgur.com/93acYuV.png" alt="Pitney Bowes">
+<img src="http://i.imgur.com/95URRH7.png" alt="Toronto Workforce Innovation Group">
+<img src="http://i.imgur.com/83GhWpV.png" alt="McCain">
