@@ -2,7 +2,7 @@
 layout: default
 title: Toronto C3 Conference
 ---
-<img src="http://i.imgur.com/wO9d2eP.jpg" alt="C3 Conference Toronto" class="center-block img-responsive">
+<img src="http://i.imgur.com/dYh1jpR.jpg" alt="C3 Conference Toronto" class="center-block img-responsive">
 <br><br>
 <div class="col-sm-4 col-sm-offset-4">
 	<a href="/c3conference/toronto2014/registration" class="btn btn-lg btn-primary center-block">Apply for the C3 Conference</a>
