@@ -10,6 +10,8 @@ Inspire events will also stay true to the C3 spirit of connecting, collaborating
 
 Join us for these short insightful power sessions and get inspired!
 
+## [C3 Inspire UTSC](/inspire/utsc)
+
 ## [C3 Inspire Ryerson](/inspire/ryerson)
 
 ## [C3 Inspire Laurier](/inspire/spring2013)
