@@ -7,7 +7,7 @@ title: Conference Schedule
 #### Speaker 1
 #### Group Selection
 #### Breakout session 1 with advisors
-#### Networking Lunch (FREE - we want you to be fueled for innovation!)
+#### Networking Lunch
 #### Speaker 2
 #### Breakout session 2 with advisors
 #### Break
