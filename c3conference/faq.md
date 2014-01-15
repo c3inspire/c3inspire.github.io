@@ -2,6 +2,12 @@
 layout: default
 title: Conference Frequently Asked Questions
 ---
+#### *What time should I arrive?*
+
+Registration begins at 9:30am, and the Opening Remarks will begin at 10am.
+
+<br>
+
 #### *What should I wear to the event?*
 
 The dress code is semi-formal but if you want to wear a suit, that’s fine. Remember there will be lots of important and amazing people, so look your best!
@@ -32,6 +38,12 @@ Please click on the following link for the schedule:
 #### *Will breakfast be provided?*
 
 Coffee will be provided during registration. However, it is recommended that delegates have breakfast prior to arriving at the conference.
+
+<br>
+
+#### *Will lunch be provided?*
+
+Yes, a hot lunch will be provided to all conference delegates.
 
 <br>
 
