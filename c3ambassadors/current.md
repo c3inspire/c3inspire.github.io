@@ -120,4 +120,13 @@ If you or someone you know fits the C3 Ambassador role - whether they would be t
 			<p>Douglas is currently the President and Founder of Weston Expressions, a company that seeks to build a new advertising platform focused on bringing advertisements to escalator handrails. He was a VeloCity Venture Fund Winner in 2012, earning his start-up over $25,000 to help build his business. Douglas was part of The Next 36 entrepreneur program, and attended the Conrad Business, Entrepreneurship, and Technology Centre.</p>
 		</div>
 	</li>
+	<li class="media">
+		<img class="media-object pull-left" src="http://i.imgur.com/Hqc3QDz.jpg" alt="Salima Jessa">
+		<div class="media-body">
+			<h4 class="media-heading">Salima Jessa</h4>
+			<p>Salima is currently a Business Consultant for Target Canada working on developing IT strategies and solutions in the retail space.  Her career has had a major focus in Information Technology Management, where she has worked at Accenture in IT Consulting and Rogers Communications in IT Project Management.</p>
+			<p>Salima graduated from Ryerson University with a Bachelor of Commerce Co-Operative Degree specializing in Information Technology Management.  She has obtained her Project Management Professional (PMP) designation and is a Certified Scrum Master (CSM).</p>
+			<p>In her spare time, Salima enjoys photography where she has founded the company Drawing with Light Photography and is currently pursuing her Digital Photography Certificate at George Brown College.</p>
+		</div>
+	</li>
 </ul>
