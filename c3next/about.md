@@ -2,8 +2,6 @@
 layout: default
 title: About C3 Next
 ---
-# About C3 Next
-
 C3 Next Conference was created for aspiring and high-achieving students with an innovative spirit who want to explore ideas and bring them to life. Motivated individuals come from a variety of disciplines to gain inspiration and build relationships that aid in the development of for-profit ventures or social change initiatives.
 <br><br>
 To do this, the C3 Next focuses on three elements that craft the distinctive features of the one-day conference:
