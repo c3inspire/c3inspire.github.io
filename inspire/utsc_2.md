@@ -13,18 +13,16 @@ title: Backstage Pass
 	Backstage Pass will bring together entrepreneurs, like yourself, to hear from incredible speakers from four different startups. Speakers include representatives from Palette, Fruitex, MyCareerCity, and Lumotune, who will discuss some of the successes and failures they have encountered, and how they have overcome them. This is a great opportunity to hear about the journeys of other entrepreneurs, and to network with other like minded individuals!
 </p>
 <p class="lead">
-	To attend, please register at https://www.eventbrite.ca/e/c3-backstage-pass-tickets-11766859995
-</p>
-<p class="lead">
 	Tickets are limited! Register today!
 </p>
 <p class="lead">
-	Click below to learn more about the startups that will be featured at Backstage Pass:
+	<a href="https://www.eventbrite.ca/e/c3-backstage-pass-tickets-11766859995" class="btn btn-lg btn-primary center-block">Register now!</a>
 </p>
 <p class="lead">
-	Palette: <a href="http://www.palettegear.com/">http://www.palettegear.com/</a>
-	Fruitex: <a href="http://fruitex.ca/">http://fruitex.ca/</a>
-	MyCareerCity: <a href="http://www.mycareercity.com/defaultC.aspx">http://www.mycareercity.com/defaultC.aspx</a>
+Click below to learn more about the startups that will be featured at Backstage Pass: <br />
+	Palette: <a href="http://www.palettegear.com/">http://www.palettegear.com/</a> <br />
+	Fruitex: <a href="http://fruitex.ca/">http://fruitex.ca/</a> <br />
+	MyCareerCity: <a href="http://www.mycareercity.com/defaultC.aspx">http://www.mycareercity.com/defaultC.aspx</a> <br />
 	Lumotune: <a href="http://www.lumotune.com/">http://www.lumotune.com/</a>
 </p>
 
