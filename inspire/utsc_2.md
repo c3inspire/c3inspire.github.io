@@ -18,7 +18,7 @@ title: Backstage Pass
 <p class="lead">
 	<div class="col-sm-4 col-sm-offset-4">
 		<a href="https://www.eventbrite.ca/e/c3-backstage-pass-tickets-11766859995" class="btn btn-lg btn-primary center-block">Register now!</a>
-	</div><br /><br />
+	</div><br /><br /><br />
 </p>
 <p class="lead">
 Click below to learn more about the startups that will be featured at Backstage Pass: <br />
