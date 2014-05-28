@@ -21,6 +21,7 @@ title: Backstage Pass
 <p class="lead">
 	Click below to learn more about the startups that will be featured at Backstage Pass:
 </p>
+<p class="lead">
 Palette: http://www.palettegear.com/
 Fruitex: http://fruitex.ca/
 MyCareerCity: http://www.mycareercity.com/defaultC.aspx
