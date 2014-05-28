@@ -22,9 +22,9 @@ title: Backstage Pass
 	Click below to learn more about the startups that will be featured at Backstage Pass:
 </p>
 <p class="lead">
-Palette: http://www.palettegear.com/
-Fruitex: http://fruitex.ca/
-MyCareerCity: http://www.mycareercity.com/defaultC.aspx
-Lumotune: http://www.lumotune.com/
+	<a href="http://www.lumotune.com/"><img src="http://i.imgur.com/9hAHHL8.png"></img></a> <br />
+	<a href="http://www.palettegear.com/"><img src="http://i.imgur.com/4NS9nAT.png"></img></a> <br />
+	<a href="http://fruitex.ca/"><img src="http://i.imgur.com/9ywT2Nh.png"></img></a> <br />
+	<a href="http://www.mycareercity.com/defaultC.aspx"><img src="http://i.imgur.com/KT1aaFF.png"></img></a>
 </p>
 
