@@ -3,9 +3,9 @@ layout: default
 title: Backstage Pass
 ---
 <div class="text-center">
-	<h3>Date: January 13th, 2014</h3>
-	<h3>Time: 5:00 PM</h3>
-	<h3>Location: The Hub at UTSC Instructional Centre</h3>
+	<h3>Date: June 4th, 2014</h3>
+	<h3>Time: 6:30 PM</h3>
+	<h3>Location: University of Waterloo, FIshbowl, Davis Centre</h3>
 </div>
 <p class="lead">
 	Come out to C3 Inspire’s Backstage Pass! </p>
