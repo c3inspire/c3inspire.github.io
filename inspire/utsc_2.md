@@ -9,7 +9,8 @@ title: Backstage Pass
 </div>
 <br>
 <p class="lead">
-	Come out to C3 Inspire’s Backstage Pass! <br />
+	Come out to C3 Inspire’s Backstage Pass! </p>
+<p class="lead">
 	Backstage Pass will bring together entrepreneurs, like yourself, to hear from incredible speakers from four different startups. Speakers include representatives from Palette, Fruitex, MyCareerCity, and Lumotune, who will discuss some of the successes and failures they have encountered, and how they have overcome them. This is a great opportunity to hear about the journeys of other entrepreneurs, and to network with other like minded individuals! <br />
 	To attend, please register at https://www.eventbrite.ca/e/c3-backstage-pass-tickets-11766859995
 Tickets are limited! Register today!
