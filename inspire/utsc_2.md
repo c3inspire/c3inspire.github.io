@@ -18,12 +18,10 @@ title: Backstage Pass
 <p class="lead">
 	<div class="col-sm-4 col-sm-offset-4">
 		<a href="https://www.eventbrite.ca/e/c3-backstage-pass-tickets-11766859995" class="btn btn-lg btn-primary center-block">Register now!</a>
-	</div>
+	</div><br /><br /> <br /> <br />
 </p>
 <p class="lead">
-</p>
-<p class="lead">
-Click below to learn more about the startups that will be featured at Backstage Pass: <br />
+Click below to learn more about the startups that will be featured at Backstage Pass: <br /> <br />
 	Palette: <a href="http://www.palettegear.com/">http://www.palettegear.com/</a> <br />
 	Fruitex: <a href="http://fruitex.ca/">http://fruitex.ca/</a> <br />
 	MyCareerCity: <a href="http://www.mycareercity.com/defaultC.aspx">http://www.mycareercity.com/defaultC.aspx</a> <br />
