@@ -15,10 +15,12 @@ title: Backstage Pass
 <p class="lead">
 	To attend, please register at https://www.eventbrite.ca/e/c3-backstage-pass-tickets-11766859995
 </p>
+<p class="lead">
 	Tickets are limited! Register today!
-
-Click below to learn more about the startups that will be featured at Backstage Pass:
-
+</p>
+<p class="lead">
+	Click below to learn more about the startups that will be featured at Backstage Pass:
+</p>
 Palette: http://www.palettegear.com/
 Fruitex: http://fruitex.ca/
 MyCareerCity: http://www.mycareercity.com/defaultC.aspx
